@@ -103,7 +103,7 @@ This assignment focuses on building an end-to-end data pipeline using Azure Blob
 * `screenshots/` – Required screenshots of all tasks.
 * `mini_project with execution result/` – Pipeline Execution result.
 * `Sample - Superstore.csv` – Source dataset.
-* `brief_summary.md` – Assignment summary.
+* `brief_summary.md` – Assignment summary 
 
 ## Tools Used
 
