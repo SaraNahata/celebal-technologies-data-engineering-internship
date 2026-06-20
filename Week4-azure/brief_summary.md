@@ -16,6 +16,17 @@ The pipeline executed successfully, and the data was copied to the destination l
 
 IAM roles such as Reader and Storage Blob Data Contributor were assigned to manage access and permissions.
 
+## Workflow
+
+Blob Storage (Source CSV) → Get Metadata → Copy Data → Blob Storage (Destination)
+
+## Output
+
+* Pipeline executed successfully.
+* Data copied to destination container.
+* Metadata validated successfully.
+
+
 
 
 
