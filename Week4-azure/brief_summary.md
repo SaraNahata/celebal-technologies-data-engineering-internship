@@ -1,10 +1,6 @@
-**Azure Data Factory Pipeline**
+# Azure Data Factory Pipeline
 
-
-
-***Brief Summary***
-
-
+Brief Summary:
 
 In this assignment, Azure cloud services were explored by creating a Resource Group and a Storage Account with Blob Storage containers. 
 
