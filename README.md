@@ -94,3 +94,31 @@ This assignment uses the Superstore dataset to practice SQL concepts such as sub
 ## Outcome
 This assignment helped me understand how to organize data into tables and use different SQL techniques to extract meaningful business insights.
 
+# Week 4 - Azure Cloud Fundamentals and Data Pipeline Implementation
+
+This assignment focuses on building an end-to-end data pipeline using Azure Blob Storage and Azure Data Factory (ADF). A CSV file was uploaded to Blob Storage, connected through a Linked Service and Datasets, validated using Get Metadata, and copied to a destination container using a Copy Data pipeline.
+
+## Files Included
+
+* `screenshots/` – Required screenshots of all tasks.
+* `mini_project with execution result/` – Pipeline Execution result.
+* `Sample - Superstore.csv` – Source dataset.
+* `brief_summary.md` – Assignment summary.
+
+## Tools Used
+
+* Microsoft Azure Portal
+* Azure Blob Storage
+* Azure Data Factory (ADF)
+
+## Workflow
+
+Blob Storage (Source CSV) → Get Metadata → Copy Data → Blob Storage (Destination)
+
+## Output
+
+* Pipeline executed successfully.
+* Data copied to destination container.
+* Metadata validated successfully.
+
+
