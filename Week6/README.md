@@ -15,28 +15,12 @@ Spark architecture concepts.
 
 ## Datasets Used
 
-  -----------------------------------------------------------------------
-  Dataset                             Purpose
-  ----------------------------------- -----------------------------------
-  **ecommerce_dataset.csv**           Q5 -- Filter products by category
-                                      (`Electronics`).
 
-  **products.csv**                    Q6 & Q10 -- Rename columns, cast
-                                      `price` to `double`, and compute
-                                      `final_price`.
-
-  **orders.json**                     Q8 -- Filter completed orders where
-                                      the amount is greater than 1000.
-
-  **Support_tickets.csv**             Q14 -- Filter records where
-                                      `region = 'AMER'` OR
-                                      `priority = 'high'`.
-
-  **sample_users.csv**                Q12 -- Demonstrate reading data,
-                                      filtering rows with non-null
-                                      `user_id`, and writing the result
-                                      as CSV.
-  -----------------------------------------------------------------------
+- **ecommerce_dataset.csv** – Used in **Q5** to filter products by the **Electronics** category.
+- **products.csv** – Used in **Q6** (rename columns and cast `price` to `double`) and **Q10** (calculate `final_price`).
+- **orders.json** – Used in **Q8** to filter completed orders with an amount greater than **1000**.
+- **Support_tickets.csv** – Used in **Q14** to filter records where `region = 'AMER'` OR `priority = 'high'`.
+- **sample_users.csv** – Used in **Q12** to demonstrate filtering rows with non-null `user_id` values and saving the result as a CSV.
 
 ## Topics Covered
 
