@@ -1,0 +1,38 @@
+[
+  {
+    "order_id": 101,
+    "customer": "Alice",
+    "status": "Completed",
+    "amount": 1500
+  },
+  {
+    "order_id": 102,
+    "customer": "Bob",
+    "status": "Pending",
+    "amount": 850
+  },
+  {
+    "order_id": 103,
+    "customer": "Charlie",
+    "status": "Completed",
+    "amount": 950
+  },
+  {
+    "order_id": 104,
+    "customer": "David",
+    "status": "Completed",
+    "amount": 2500
+  },
+  {
+    "order_id": 105,
+    "customer": "Eva",
+    "status": "Cancelled",
+    "amount": 1800
+  },
+  {
+    "order_id": 106,
+    "customer": "Frank",
+    "status": "Completed",
+    "amount": 1200
+  }
+]
