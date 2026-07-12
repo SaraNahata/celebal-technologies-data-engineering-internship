@@ -1,0 +1,6 @@
+Row_ID,Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Customer_Name,Segment,Country,City,State,Postal_Code,Region,Product_ID,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit
+2,CA-2016-152156,2026-01-01,2026-01-03,Second Class,CG-12520,Claire Gute,Consumer,United States,Henderson,Kentucky,42420,South,FUR-BO-10001798,Furniture,Bookcases,Bush Somerset Collection Bookcase,761.94,3,0.0,319.58
+5,US-2015-108966,2026-01-02,2026-01-04,Standard Class,DV-13045,Darrin Van Huff,Corporate,United States,Los Angeles,California,90036,West,OFF-LA-10000240,Office Supplies,Labels,Self-Adhesive Address Labels,95.0,2,0.0,25.0
+8,CA-2014-115812,2026-01-03,2026-01-05,Second Class,SM-20320,Sean Miller,Home Office,United States,Fort Lauderdale,Florida,33311,South,TEC-PH-10002275,Technology,Phones,Cisco SPA Phone,1100.0,5,0.2,250.0
+9995,CA-2026-999004,2026-01-06,2026-01-08,Standard Class,JD-10001,John Doe,Consumer,United States,New York,New York,10001,East,FUR-CH-900001,Furniture,Chairs,Ergonomic Office Chair,350.0,2,0.0,80.0
+9996,CA-2026-999005,2026-01-07,2026-01-09,First Class,SS-10002,Sara Sharma,Corporate,United States,Seattle,Washington,98101,West,TEC-AC-900002,Technology,Accessories,Wireless Keyboard,150.0,3,0.1,45.0
