@@ -1,0 +1,44 @@
+category,product_name,total_revenue,rank_in_category
+Books,"Harry Potter",14170128.67,1
+Books,"Operating Systems",8512382.72,2
+Books,Dbms,5252850.35,3
+Books,"The Alchemist",5160605.31,4
+Books,Naruto,4800586.06,5
+Books,"Marvel Comics",4006682.48,6
+Books,"Computer Networks",3629104.94,7
+Books,Batman,1501648.17,8
+Clothing,Shorts,14223850.87,1
+Clothing,Top,12190367.86,2
+Clothing,Hoodie,7113337.82,3
+Clothing,Shirt,6455605.26,4
+Clothing,Jeans,6266646.93,5
+Clothing,"Kids T-Shirt",4905036.42,6
+Clothing,Jacket,4075316.84,7
+Clothing,Dress,3469923.84,8
+Clothing,"Men'S T-Shirt",2622251.68,9
+Clothing,Kurti,2057546.98,10
+Electronics,"Laptop Stand",7736742.91,1
+Electronics,"Sony Headphones",5716907.70,2
+Electronics,"Usb Hub",5339686.35,3
+Electronics,Keyboard,3848620.89,4
+Electronics,"Oneplus 12",3181948.19,5
+Electronics,"Logitech Mouse",3171931.52,6
+Electronics,"Samsung Galaxy S24",2793239.24,7
+Electronics,"Jbl Speaker",2237569.94,8
+Electronics,"Lenovo Ideapad",1896198.32,9
+Electronics,"Dell Inspiron",1870954.15,10
+Electronics,Airpods,996874.04,11
+Electronics,"Boat Earbuds",891099.42,12
+Electronics,"Nothing Phone 3",878811.43,13
+Electronics,"Hp Pavilion",441431.72,14
+Electronics,"Macbook Air",428630.84,15
+Electronics,"Iphone 15",176404.23,16
+Home,"Dining Table",16237638.04,1
+Home,"Study Table",11437601.19,2
+Home,Microwave,10798537.30,3
+Home,"Pressure Cooker",8998904.72,4
+Home,"Wall Clock",8580235.60,5
+Home,"Mixer Grinder",7344340.79,6
+Home,Lamp,6366490.60,7
+Home,"Flower Vase",6359266.22,8
+Home,"Office Chair",3771162.88,9

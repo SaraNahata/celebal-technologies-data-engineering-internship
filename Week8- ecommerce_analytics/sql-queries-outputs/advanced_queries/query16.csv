@@ -1,0 +1,1001 @@
+product_a,product_b,times_bought_together
+"Harry Potter",Microwave,15
+Shorts,"Harry Potter",15
+Shorts,"Operating Systems",13
+"Harry Potter",Top,13
+Shorts,"Wall Clock",12
+"Dining Table",Shorts,12
+Shorts,Lamp,12
+"Harry Potter","Operating Systems",12
+"Usb Hub","Dining Table",11
+"Harry Potter","Dining Table",11
+Top,"Sony Headphones",11
+"Harry Potter",Shorts,11
+"Dining Table","Flower Vase",10
+Top,Shorts,10
+Shorts,Top,10
+Shorts,Shorts,10
+Shorts,"Dining Table",10
+"Harry Potter","Study Table",9
+"Samsung Galaxy S24","The Alchemist",9
+"Study Table","Operating Systems",9
+"Dining Table","Operating Systems",9
+"Computer Networks","Harry Potter",9
+Shorts,Shirt,9
+"Study Table",Top,9
+"Dining Table",Naruto,9
+Shorts,"Office Chair",9
+"Harry Potter","Wall Clock",9
+Shorts,"Mixer Grinder",9
+"Dining Table","Laptop Stand",9
+Microwave,"Wall Clock",8
+"Dining Table","Wall Clock",8
+Microwave,Top,8
+Shorts,Microwave,8
+"Computer Networks","Pressure Cooker",8
+Shorts,Jeans,8
+"Samsung Galaxy S24",Microwave,8
+"Computer Networks",Microwave,8
+"Dining Table",Hoodie,8
+"Study Table","The Alchemist",8
+"Samsung Galaxy S24",Shorts,8
+Top,"Harry Potter",8
+"Harry Potter","The Alchemist",8
+"Study Table",Lamp,8
+Microwave,Shirt,8
+Microwave,Dbms,8
+"Study Table",Shorts,8
+"Harry Potter","Sony Headphones",8
+"Samsung Galaxy S24","Dining Table",8
+Microwave,Naruto,7
+"Samsung Galaxy S24","Mixer Grinder",7
+Top,"Operating Systems",7
+Lamp,"Dining Table",7
+"Dining Table","Dining Table",7
+"Study Table","Laptop Stand",7
+Top,Shirt,7
+"Kids T-Shirt",Top,7
+"Wall Clock",Microwave,7
+"Study Table","Wall Clock",7
+"Harry Potter",Dbms,7
+"Laptop Stand","Dining Table",7
+"Usb Hub",Naruto,7
+"Oneplus 12",Microwave,7
+"Study Table","Mixer Grinder",7
+"Dining Table","Harry Potter",7
+"Dining Table",Top,7
+Top,"Dining Table",7
+"Mixer Grinder",Lamp,7
+Shorts,"Flower Vase",7
+"Harry Potter",Shirt,7
+"Kids T-Shirt",Shorts,7
+Microwave,Jeans,7
+Microwave,Shorts,7
+Shorts,"The Alchemist",7
+Shorts,"Sony Headphones",7
+Lamp,Lamp,7
+"Oneplus 12","Study Table",6
+Lamp,"Wall Clock",6
+Shorts,"Samsung Galaxy S24",6
+"Operating Systems",Naruto,6
+"Harry Potter","Pressure Cooker",6
+"Mixer Grinder","Dining Table",6
+"Kids T-Shirt","Wall Clock",6
+"Study Table","Sony Headphones",6
+"The Alchemist",Lamp,6
+Shorts,"Study Table",6
+"Kids T-Shirt",Microwave,6
+"Flower Vase","Dining Table",6
+Microwave,"Dining Table",6
+Dbms,"Operating Systems",6
+"Computer Networks","Operating Systems",6
+Dbms,"Mixer Grinder",6
+Top,"Flower Vase",6
+"Laptop Stand",Shorts,6
+Dbms,"Dining Table",6
+"The Alchemist","Dining Table",6
+Microwave,Lamp,6
+Jeans,"Dining Table",6
+Jeans,"Mixer Grinder",6
+Shorts,Dbms,6
+"Samsung Galaxy S24",Dbms,6
+"Dining Table",Shirt,6
+"Men'S T-Shirt",Shorts,6
+"Study Table",Shirt,6
+"Study Table","Harry Potter",6
+"Samsung Galaxy S24","Wall Clock",6
+"Kids T-Shirt","Harry Potter",6
+Top,"Wall Clock",6
+"Usb Hub","Wall Clock",6
+Top,Top,6
+Dbms,"Wall Clock",6
+"Dining Table",Lamp,6
+"Study Table","Dining Table",6
+"Operating Systems","Harry Potter",6
+"Harry Potter","Harry Potter",6
+"Samsung Galaxy S24","Harry Potter",6
+"Wall Clock","Harry Potter",6
+Lamp,"Harry Potter",6
+Microwave,"Harry Potter",6
+Dress,"Dining Table",6
+"Study Table","Flower Vase",6
+"Wall Clock","Wall Clock",5
+"Pressure Cooker",Top,5
+"Mixer Grinder","Mixer Grinder",5
+Keyboard,Shirt,5
+"Operating Systems","The Alchemist",5
+"Dining Table","Oneplus 12",5
+"Men'S T-Shirt",Dbms,5
+Lamp,"Sony Headphones",5
+Top,Lamp,5
+Microwave,"Sony Headphones",5
+"Usb Hub",Shorts,5
+Lamp,Jeans,5
+Jacket,Top,5
+Dress,Top,5
+Jeans,Shorts,5
+"Dining Table",Jacket,5
+"Sony Headphones","Dining Table",5
+Lamp,"Flower Vase",5
+Jacket,"Flower Vase",5
+"Pressure Cooker","Operating Systems",5
+"Dining Table","Study Table",5
+Top,Hoodie,5
+"Harry Potter","Computer Networks",5
+"Usb Hub",Top,5
+"Usb Hub","Samsung Galaxy S24",5
+Dress,"Operating Systems",5
+Lamp,Microwave,5
+"Pressure Cooker","Dining Table",5
+Shorts,Naruto,5
+"Kids T-Shirt","Study Table",5
+Top,Microwave,5
+"Study Table",Naruto,5
+Shirt,Hoodie,5
+"Kids T-Shirt","Dining Table",5
+"Dining Table",Dress,5
+"Operating Systems",Shirt,5
+"Laptop Stand",Lamp,5
+Jeans,"Harry Potter",5
+Microwave,"The Alchemist",5
+Dbms,Shirt,5
+"Pressure Cooker",Shirt,5
+Dress,"Harry Potter",5
+Jeans,"Wall Clock",5
+"Study Table",Microwave,5
+Dbms,"Harry Potter",5
+Microwave,"Operating Systems",5
+Jeans,"Sony Headphones",5
+Dbms,Microwave,5
+"Dining Table",Microwave,5
+"Pressure Cooker","Mixer Grinder",5
+"Logitech Mouse",Top,5
+"Wall Clock",Top,5
+"Study Table",Jeans,5
+"Harry Potter","Usb Hub",5
+"Mixer Grinder","Sony Headphones",5
+Dbms,Top,5
+"Samsung Galaxy S24",Shirt,5
+"Computer Networks","Mixer Grinder",5
+"Harry Potter","Mixer Grinder",5
+"Laptop Stand",Top,5
+"Harry Potter","Flower Vase",5
+Shorts,Jacket,5
+"Office Chair","Harry Potter",5
+"Dining Table","The Alchemist",5
+Naruto,"Mixer Grinder",5
+"Pressure Cooker",Jeans,5
+"Operating Systems","Dining Table",5
+"Harry Potter","Office Chair",4
+"Kids T-Shirt",Dbms,4
+"The Alchemist","Mixer Grinder",4
+"Samsung Galaxy S24",Top,4
+Dress,"Study Table",4
+Shorts,"Oneplus 12",4
+"Men'S T-Shirt","Operating Systems",4
+"Wall Clock","Dining Table",4
+"Oneplus 12","Dining Table",4
+Microwave,"Flower Vase",4
+"Pressure Cooker",Keyboard,4
+Shirt,"Wall Clock",4
+"The Alchemist","Samsung Galaxy S24",4
+"Samsung Galaxy S24","Flower Vase",4
+"Sony Headphones","Harry Potter",4
+Top,Keyboard,4
+Dbms,Shorts,4
+"Study Table","Oneplus 12",4
+"The Alchemist","Wall Clock",4
+"Operating Systems","Samsung Galaxy S24",4
+"Logitech Mouse",Shorts,4
+"Logitech Mouse","Mixer Grinder",4
+"Study Table","Boat Earbuds",4
+"The Alchemist","Flower Vase",4
+Lamp,Jacket,4
+"Oneplus 12","Wall Clock",4
+"Samsung Galaxy S24",Jeans,4
+Shorts,"Pressure Cooker",4
+"Laptop Stand",Naruto,4
+Top,"The Alchemist",4
+Top,"Men'S T-Shirt",4
+"Study Table","Men'S T-Shirt",4
+"Wall Clock","Operating Systems",4
+Microwave,Batman,4
+"Computer Networks",Shorts,4
+"Office Chair","Dining Table",4
+Lamp,"Operating Systems",4
+"Laptop Stand","The Alchemist",4
+Naruto,Hoodie,4
+Dbms,"Study Table",4
+Microwave,Jacket,4
+"Jbl Speaker",Lamp,4
+"Computer Networks",Lamp,4
+"Dining Table",Keyboard,4
+"The Alchemist","The Alchemist",4
+"Office Chair","Sony Headphones",4
+"Kids T-Shirt","Sony Headphones",4
+Top,Dbms,4
+"Oneplus 12",Dbms,4
+"Dining Table",Jeans,4
+"Logitech Mouse",Microwave,4
+"Flower Vase","The Alchemist",4
+"Harry Potter",Hoodie,4
+Shorts,"Kids T-Shirt",4
+"Study Table",Dress,4
+Dress,Lamp,4
+"Usb Hub",Shirt,4
+Jeans,Kurti,4
+"Dining Table","Pressure Cooker",4
+Keyboard,"Harry Potter",4
+Kurti,"Sony Headphones",4
+Dbms,"Sony Headphones",4
+"Study Table",Dbms,4
+Dress,Dbms,4
+"The Alchemist",Hoodie,4
+Top,Naruto,4
+"Jbl Speaker","Operating Systems",4
+"Study Table","Office Chair",4
+Jeans,Top,4
+"Harry Potter",Lamp,4
+Dress,"Flower Vase",4
+"Mixer Grinder",Naruto,4
+"Computer Networks",Shirt,4
+"Computer Networks","Dining Table",4
+Dbms,Jacket,4
+"Dining Table","Sony Headphones",4
+"Wall Clock","Sony Headphones",4
+"Study Table","Samsung Galaxy S24",4
+"Operating Systems","Flower Vase",4
+Shirt,"The Alchemist",4
+"Flower Vase","Operating Systems",4
+Naruto,"Operating Systems",4
+Dress,Microwave,4
+"Mixer Grinder","Harry Potter",4
+Top,"Mixer Grinder",4
+"Flower Vase","Mixer Grinder",4
+Shorts,"Boat Earbuds",4
+Lamp,"Laptop Stand",4
+Microwave,"Study Table",4
+"Sony Headphones",Microwave,4
+"Oneplus 12","Harry Potter",4
+"Oneplus 12","Mixer Grinder",4
+"Pressure Cooker",Shorts,3
+Microwave,"Office Chair",3
+Naruto,"Laptop Stand",3
+"Operating Systems","Mixer Grinder",3
+"Computer Networks","Laptop Stand",3
+Keyboard,Dbms,3
+Microwave,"Pressure Cooker",3
+"Men'S T-Shirt",Batman,3
+"Marvel Comics","Operating Systems",3
+"Logitech Mouse","Dining Table",3
+"Mixer Grinder","The Alchemist",3
+"Sony Headphones","Men'S T-Shirt",3
+Shorts,"Nothing Phone 3",3
+"Harry Potter",Jeans,3
+"Flower Vase",Microwave,3
+Microwave,Microwave,3
+"Usb Hub",Microwave,3
+Dress,"Sony Headphones",3
+"Study Table",Jacket,3
+"Operating Systems",Jacket,3
+"Dining Table",Dbms,3
+"Marvel Comics",Top,3
+Lamp,Top,3
+Microwave,"Kids T-Shirt",3
+Dress,Shorts,3
+"Pressure Cooker","Wall Clock",3
+Top,"Kids T-Shirt",3
+"Harry Potter","Samsung Galaxy S24",3
+"Men'S T-Shirt","Dining Table",3
+"Mixer Grinder",Hoodie,3
+Kurti,Microwave,3
+"Harry Potter","Oneplus 12",3
+Jeans,Shirt,3
+"Samsung Galaxy S24",Hoodie,3
+"Study Table","Computer Networks",3
+"Kids T-Shirt","Mixer Grinder",3
+Jacket,"Mixer Grinder",3
+Keyboard,Jacket,3
+"Office Chair","Pressure Cooker",3
+Top,"Logitech Mouse",3
+Dbms,"The Alchemist",3
+Top,"Office Chair",3
+"Usb Hub","Office Chair",3
+"Usb Hub","Harry Potter",3
+Shirt,"Dining Table",3
+"Oneplus 12","Flower Vase",3
+"Oneplus 12",Naruto,3
+Shorts,Kurti,3
+"Marvel Comics",Shorts,3
+"Mixer Grinder","Kids T-Shirt",3
+Dbms,"Kids T-Shirt",3
+"Boat Earbuds",Microwave,3
+Hoodie,Lamp,3
+Keyboard,"Dining Table",3
+Naruto,"Pressure Cooker",3
+Jeans,"Operating Systems",3
+"Men'S T-Shirt",Jeans,3
+Microwave,"Hp Pavilion",3
+"Kids T-Shirt","Office Chair",3
+"Laptop Stand","Office Chair",3
+Shirt,"Mixer Grinder",3
+Dbms,"Office Chair",3
+"Usb Hub","Pressure Cooker",3
+Dbms,Dbms,3
+"Lenovo Ideapad","Flower Vase",3
+"Kids T-Shirt",Lamp,3
+Microwave,Dress,3
+Jeans,Jeans,3
+"Computer Networks",Naruto,3
+"Study Table",Hoodie,3
+Naruto,Lamp,3
+"Oneplus 12","Operating Systems",3
+"Mixer Grinder","Operating Systems",3
+"Logitech Mouse","Study Table",3
+"Men'S T-Shirt",Shirt,3
+"Lenovo Ideapad","Operating Systems",3
+"Men'S T-Shirt","Harry Potter",3
+"Dining Table","Macbook Air",3
+"Pressure Cooker",Microwave,3
+"Laptop Stand","Harry Potter",3
+"Study Table","Iphone 15",3
+"Flower Vase","Harry Potter",3
+"Operating Systems","Office Chair",3
+"Kids T-Shirt",Jeans,3
+"Lenovo Ideapad",Top,3
+Jeans,"Usb Hub",3
+"Samsung Galaxy S24",Lamp,3
+Shorts,Airpods,3
+"Usb Hub","Laptop Stand",3
+"Boat Earbuds","Harry Potter",3
+"Sony Headphones","The Alchemist",3
+"Flower Vase",Shorts,3
+Kurti,"The Alchemist",3
+"Oneplus 12",Top,3
+Batman,Dbms,3
+"Lenovo Ideapad","Office Chair",3
+"Usb Hub",Lamp,3
+Lamp,"Mixer Grinder",3
+"Marvel Comics","Harry Potter",3
+"Pressure Cooker","Laptop Stand",3
+Shirt,Shirt,3
+"Marvel Comics",Dbms,3
+Lamp,"Pressure Cooker",3
+"Sony Headphones",Shirt,3
+"The Alchemist",Microwave,3
+"Samsung Galaxy S24","Operating Systems",3
+"Lenovo Ideapad",Shorts,3
+"Operating Systems","Wall Clock",3
+Top,Jeans,3
+"The Alchemist",Dbms,3
+Microwave,"Mixer Grinder",3
+Lamp,"Oneplus 12",3
+"Men'S T-Shirt",Microwave,3
+"Jbl Speaker",Top,3
+"Men'S T-Shirt","Mixer Grinder",3
+"Usb Hub","Operating Systems",3
+Keyboard,"Flower Vase",3
+"Pressure Cooker","Harry Potter",3
+Shorts,"Marvel Comics",3
+"Wall Clock","Nothing Phone 3",3
+"Lenovo Ideapad","The Alchemist",3
+"Usb Hub",Hoodie,3
+"The Alchemist","Operating Systems",3
+Dbms,"Flower Vase",3
+"Kids T-Shirt",Shirt,3
+"Mixer Grinder","Laptop Stand",3
+"Computer Networks",Jeans,3
+Dbms,"Samsung Galaxy S24",3
+Jeans,"Men'S T-Shirt",3
+Keyboard,Lamp,3
+"Mixer Grinder","Study Table",2
+"Marvel Comics","Wall Clock",2
+"Flower Vase","Wall Clock",2
+Dress,"Wall Clock",2
+"Dining Table","Usb Hub",2
+"Mixer Grinder",Top,2
+"Kids T-Shirt",Naruto,2
+"Logitech Mouse",Dbms,2
+Top,"Laptop Stand",2
+Shorts,"Laptop Stand",2
+"Harry Potter","Laptop Stand",2
+Kurti,"Mixer Grinder",2
+"Harry Potter","Men'S T-Shirt",2
+"Pressure Cooker","Men'S T-Shirt",2
+"Office Chair","Study Table",2
+Top,"Oneplus 12",2
+Naruto,Dbms,2
+"Study Table","Study Table",2
+"Mixer Grinder","Pressure Cooker",2
+"Flower Vase",Top,2
+Jacket,Batman,2
+"Dining Table",Batman,2
+"The Alchemist",Shirt,2
+Kurti,Shirt,2
+"Marvel Comics","Nothing Phone 3",2
+"Samsung Galaxy S24","Nothing Phone 3",2
+"Men'S T-Shirt",Top,2
+"Operating Systems","Laptop Stand",2
+Kurti,Dbms,2
+Shorts,Keyboard,2
+Dress,"Computer Networks",2
+"Jbl Speaker",Jeans,2
+"Samsung Galaxy S24","Sony Headphones",2
+"Boat Earbuds","Wall Clock",2
+"Flower Vase",Dbms,2
+"Operating Systems",Dbms,2
+"Oneplus 12",Dress,2
+"Hp Pavilion",Top,2
+Shirt,"Laptop Stand",2
+"Samsung Galaxy S24","Usb Hub",2
+"Harry Potter","Kids T-Shirt",2
+Lamp,Keyboard,2
+"Computer Networks","Wall Clock",2
+"The Alchemist",Airpods,2
+"Harry Potter","Dell Inspiron",2
+Shorts,Batman,2
+Jacket,Lamp,2
+"Marvel Comics",Microwave,2
+Lamp,Dbms,2
+"Boat Earbuds","Pressure Cooker",2
+Dbms,"Pressure Cooker",2
+Jeans,"Pressure Cooker",2
+"Study Table","Pressure Cooker",2
+"Men'S T-Shirt",Airpods,2
+Lamp,Airpods,2
+Jeans,Airpods,2
+"Kids T-Shirt",Hoodie,2
+"Wall Clock",Shorts,2
+Jeans,"Computer Networks",2
+Shorts,"Usb Hub",2
+Airpods,"Flower Vase",2
+"Wall Clock","Logitech Mouse",2
+"Sony Headphones","Samsung Galaxy S24",2
+"Kids T-Shirt","Operating Systems",2
+"Men'S T-Shirt","Office Chair",2
+"Men'S T-Shirt",Naruto,2
+Keyboard,"Office Chair",2
+"The Alchemist","Harry Potter",2
+"Lenovo Ideapad","Harry Potter",2
+Dress,"Mixer Grinder",2
+"Wall Clock","Office Chair",2
+Dress,Naruto,2
+Batman,"Dining Table",2
+"Office Chair","Macbook Air",2
+"Flower Vase","Office Chair",2
+Jeans,Lamp,2
+Dress,"Pressure Cooker",2
+"Oneplus 12",Jeans,2
+Top,"Boat Earbuds",2
+"The Alchemist","Study Table",2
+"Dining Table","Office Chair",2
+"Laptop Stand",Hoodie,2
+"Wall Clock",Dress,2
+"Logitech Mouse",Lamp,2
+"Harry Potter",Keyboard,2
+"Oneplus 12",Hoodie,2
+"Operating Systems","Study Table",2
+"Samsung Galaxy S24",Jacket,2
+Shirt,Jacket,2
+Top,"Pressure Cooker",2
+"Laptop Stand",Dbms,2
+"Dining Table","Kids T-Shirt",2
+"Pressure Cooker","Office Chair",2
+"Flower Vase",Lamp,2
+Lamp,Shorts,2
+Jacket,Dress,2
+"Study Table",Kurti,2
+"Office Chair",Shirt,2
+"Marvel Comics",Shirt,2
+Kurti,Lamp,2
+"Pressure Cooker","Kids T-Shirt",2
+"Computer Networks","Kids T-Shirt",2
+"Pressure Cooker","Study Table",2
+Lamp,"Study Table",2
+Hoodie,"The Alchemist",2
+"Sony Headphones","Flower Vase",2
+"Laptop Stand",Shirt,2
+"Pressure Cooker",Airpods,2
+Naruto,"Harry Potter",2
+Batman,Keyboard,2
+Jeans,"Office Chair",2
+"Men'S T-Shirt","Sony Headphones",2
+"Mixer Grinder","Wall Clock",2
+Naruto,"Men'S T-Shirt",2
+"Office Chair","Iphone 15",2
+Jacket,"The Alchemist",2
+Microwave,"Usb Hub",2
+"Flower Vase",Hoodie,2
+Naruto,Shorts,2
+"Boat Earbuds","Operating Systems",2
+"Kids T-Shirt",Dress,2
+"Harry Potter",Dress,2
+"Boat Earbuds",Naruto,2
+"Boat Earbuds","Kids T-Shirt",2
+"Office Chair",Hoodie,2
+Top,"Samsung Galaxy S24",2
+Shorts,Dress,2
+"The Alchemist",Top,2
+"Lenovo Ideapad",Microwave,2
+"Boat Earbuds","Sony Headphones",2
+Airpods,"Sony Headphones",2
+Jacket,Microwave,2
+"Mixer Grinder",Microwave,2
+Jeans,Hoodie,2
+"Mixer Grinder","Logitech Mouse",2
+"Nothing Phone 3","Dining Table",2
+"Office Chair",Top,2
+"Laptop Stand","Sony Headphones",2
+"Operating Systems",Top,2
+"Pressure Cooker",Naruto,2
+"Mixer Grinder",Jeans,2
+"Men'S T-Shirt","The Alchemist",2
+"Office Chair",Microwave,2
+"Mixer Grinder","Flower Vase",2
+"Dining Table","Mixer Grinder",2
+"Lenovo Ideapad","Laptop Stand",2
+"Harry Potter",Jacket,2
+"Wall Clock","Flower Vase",2
+"Computer Networks","Sony Headphones",2
+"Usb Hub","The Alchemist",2
+Top,"Study Table",2
+"Sony Headphones","Kids T-Shirt",2
+"Study Table","Kids T-Shirt",2
+"Usb Hub","Kids T-Shirt",2
+Dbms,"Computer Networks",2
+Dress,"Men'S T-Shirt",2
+"The Alchemist",Shorts,2
+Shorts,Hoodie,2
+"Dining Table","Samsung Galaxy S24",2
+"Harry Potter",Naruto,2
+Batman,"Flower Vase",2
+Hoodie,"Pressure Cooker",2
+Top,Jacket,2
+"Sony Headphones",Hoodie,2
+"Flower Vase","Sony Headphones",2
+Naruto,Naruto,2
+Lamp,Naruto,2
+"Sony Headphones","Operating Systems",2
+"Logitech Mouse","Operating Systems",2
+Kurti,Top,2
+Kurti,Naruto,2
+Dbms,Naruto,2
+Lamp,Shirt,2
+"Iphone 15","Operating Systems",2
+"Jbl Speaker","Flower Vase",2
+"Wall Clock","The Alchemist",2
+Lamp,"Men'S T-Shirt",2
+Microwave,Hoodie,2
+"Mixer Grinder",Shirt,2
+"Marvel Comics","Dining Table",2
+"Pressure Cooker",Dbms,2
+"Operating Systems","Sony Headphones",2
+Dress,Keyboard,2
+"Study Table","Usb Hub",2
+Naruto,"Flower Vase",2
+"Pressure Cooker","Flower Vase",2
+Shirt,Top,2
+Shirt,Microwave,2
+"Kids T-Shirt",Jacket,2
+"Study Table",Keyboard,2
+Lamp,Batman,2
+Jeans,Batman,2
+"Jbl Speaker",Shirt,2
+"Samsung Galaxy S24","Kids T-Shirt",2
+"Computer Networks","Dell Inspiron",2
+Top,Airpods,2
+"Boat Earbuds",Dbms,2
+"Computer Networks",Dbms,2
+"Samsung Galaxy S24","Marvel Comics",2
+"Marvel Comics",Batman,2
+"Harry Potter","Logitech Mouse",2
+Jacket,"Dining Table",2
+"Oneplus 12","Jbl Speaker",2
+"Jbl Speaker","Mixer Grinder",2
+Batman,Hoodie,2
+"Usb Hub","Sony Headphones",2
+"Jbl Speaker","Harry Potter",2
+"Oneplus 12","Sony Headphones",2
+"Office Chair","Oneplus 12",2
+Dbms,"Nothing Phone 3",2
+Microwave,"Nothing Phone 3",2
+"Pressure Cooker",Hoodie,2
+Lamp,"Logitech Mouse",2
+"Sony Headphones",Top,2
+"Wall Clock",Dbms,2
+"Men'S T-Shirt",Jacket,2
+"Boat Earbuds",Shirt,2
+Shirt,"Nothing Phone 3",2
+"Oneplus 12",Lamp,2
+"Oneplus 12",Jacket,2
+Top,"Jbl Speaker",2
+"Pressure Cooker","Dell Inspiron",2
+"Lenovo Ideapad",Naruto,2
+"Dining Table","Boat Earbuds",2
+"Flower Vase",Jeans,2
+Microwave,"Samsung Galaxy S24",2
+"Computer Networks","Usb Hub",2
+"The Alchemist",Dress,2
+"Men'S T-Shirt",Keyboard,2
+"The Alchemist","Usb Hub",2
+"Usb Hub",Jeans,2
+Top,"Dell Inspiron",2
+Dress,Dress,2
+"Operating Systems","Usb Hub",2
+Hoodie,"Mixer Grinder",2
+Airpods,"Mixer Grinder",2
+"The Alchemist","Men'S T-Shirt",2
+"Logitech Mouse","Sony Headphones",2
+"Sony Headphones","Usb Hub",2
+"Usb Hub","Flower Vase",2
+Jacket,"Operating Systems",2
+"Computer Networks","Flower Vase",2
+Microwave,"Jbl Speaker",2
+"Laptop Stand","Flower Vase",2
+"Marvel Comics",Jeans,2
+"Study Table","Jbl Speaker",2
+"Wall Clock","Oneplus 12",2
+Shorts,"Men'S T-Shirt",2
+"The Alchemist","Sony Headphones",2
+"Men'S T-Shirt","Oneplus 12",2
+"Office Chair","Wall Clock",1
+"Lenovo Ideapad","Kids T-Shirt",1
+Shirt,Naruto,1
+"Samsung Galaxy S24","Laptop Stand",1
+Jacket,Shirt,1
+"Iphone 15","Pressure Cooker",1
+"Laptop Stand","Men'S T-Shirt",1
+"Marvel Comics","The Alchemist",1
+"Nothing Phone 3","Oneplus 12",1
+"Sony Headphones","Oneplus 12",1
+Shirt,"Operating Systems",1
+"Dining Table","Lenovo Ideapad",1
+"Samsung Galaxy S24","Lenovo Ideapad",1
+"Pressure Cooker","Pressure Cooker",1
+"Marvel Comics","Sony Headphones",1
+"Office Chair","Laptop Stand",1
+"Operating Systems","Pressure Cooker",1
+Shirt,Shorts,1
+"Marvel Comics","Laptop Stand",1
+Jacket,Dbms,1
+Jacket,Jeans,1
+"Usb Hub","Study Table",1
+Jacket,Jacket,1
+"Marvel Comics","Kids T-Shirt",1
+Shirt,"Samsung Galaxy S24",1
+"Operating Systems",Airpods,1
+"Dining Table","Dell Inspiron",1
+"Computer Networks",Hoodie,1
+Kurti,Hoodie,1
+"Operating Systems","Oneplus 12",1
+Dress,"Oneplus 12",1
+"Men'S T-Shirt","Wall Clock",1
+"Mixer Grinder",Jacket,1
+"Kids T-Shirt","Pressure Cooker",1
+"Men'S T-Shirt","Kids T-Shirt",1
+"Oneplus 12",Airpods,1
+"Laptop Stand","Wall Clock",1
+"Boat Earbuds",Airpods,1
+Kurti,Airpods,1
+"Operating Systems",Batman,1
+"Wall Clock",Kurti,1
+"Kids T-Shirt",Kurti,1
+"Boat Earbuds","Laptop Stand",1
+Keyboard,Naruto,1
+"Office Chair",Lamp,1
+"Kids T-Shirt","Boat Earbuds",1
+"The Alchemist","Office Chair",1
+"Dell Inspiron","Dining Table",1
+"Flower Vase","Logitech Mouse",1
+"Wall Clock",Batman,1
+Jacket,Keyboard,1
+Keyboard,Dress,1
+"Lenovo Ideapad","Macbook Air",1
+"Marvel Comics","Pressure Cooker",1
+"Study Table","Hp Pavilion",1
+"Jbl Speaker","Office Chair",1
+Shirt,Batman,1
+"Wall Clock","Computer Networks",1
+Shirt,"Dell Inspiron",1
+"Boat Earbuds","Computer Networks",1
+"Kids T-Shirt","Computer Networks",1
+Top,Dress,1
+"Nothing Phone 3",Dress,1
+Dbms,Dress,1
+"Computer Networks","Study Table",1
+"Kids T-Shirt","Hp Pavilion",1
+"Oneplus 12",Shirt,1
+"Logitech Mouse",Shirt,1
+Kurti,"Oneplus 12",1
+"Pressure Cooker",Lamp,1
+Jeans,"Flower Vase",1
+"Hp Pavilion","Samsung Galaxy S24",1
+Lamp,"Marvel Comics",1
+"Operating Systems",Dress,1
+"Kids T-Shirt","Samsung Galaxy S24",1
+"Usb Hub",Kurti,1
+"Wall Clock",Lamp,1
+"Hp Pavilion","Flower Vase",1
+Top,Kurti,1
+Microwave,"Men'S T-Shirt",1
+Hoodie,Airpods,1
+"Logitech Mouse","Oneplus 12",1
+"Jbl Speaker","Hp Pavilion",1
+"Pressure Cooker","Jbl Speaker",1
+Lamp,"Samsung Galaxy S24",1
+Jacket,Naruto,1
+"Oneplus 12","Laptop Stand",1
+"Iphone 15","Wall Clock",1
+Airpods,"Harry Potter",1
+"Harry Potter","Lenovo Ideapad",1
+"Computer Networks","Lenovo Ideapad",1
+Lamp,"Iphone 15",1
+"Flower Vase","Usb Hub",1
+Dress,"Laptop Stand",1
+"Sony Headphones","Laptop Stand",1
+"Dell Inspiron",Shirt,1
+Jacket,"Marvel Comics",1
+Dress,"Marvel Comics",1
+Kurti,Jeans,1
+"Lenovo Ideapad",Jeans,1
+"Laptop Stand",Dress,1
+"Lenovo Ideapad",Dress,1
+Shorts,"Hp Pavilion",1
+"Sony Headphones","Hp Pavilion",1
+Dbms,Hoodie,1
+Batman,Naruto,1
+"Marvel Comics","Samsung Galaxy S24",1
+Naruto,Shirt,1
+"Operating Systems",Lamp,1
+"Flower Vase","Pressure Cooker",1
+"Jbl Speaker","Sony Headphones",1
+"Usb Hub",Dbms,1
+Batman,"Samsung Galaxy S24",1
+Shirt,"Macbook Air",1
+"Iphone 15",Naruto,1
+Naruto,Microwave,1
+Dress,"The Alchemist",1
+Keyboard,"The Alchemist",1
+"Logitech Mouse","Wall Clock",1
+"Logitech Mouse","Jbl Speaker",1
+Naruto,"Macbook Air",1
+"Jbl Speaker",Kurti,1
+Microwave,Kurti,1
+"Oneplus 12",Kurti,1
+"Hp Pavilion",Naruto,1
+Shirt,"Office Chair",1
+Hoodie,"Office Chair",1
+"Computer Networks",Jacket,1
+Hoodie,"Sony Headphones",1
+Naruto,Top,1
+"Computer Networks","Samsung Galaxy S24",1
+"Boat Earbuds","Men'S T-Shirt",1
+Hoodie,"Operating Systems",1
+"Mixer Grinder","Office Chair",1
+"Laptop Stand","Jbl Speaker",1
+"Computer Networks","Iphone 15",1
+Naruto,"Iphone 15",1
+"Laptop Stand","Iphone 15",1
+Naruto,"Kids T-Shirt",1
+Kurti,"Kids T-Shirt",1
+"Operating Systems","Computer Networks",1
+"Pressure Cooker","Boat Earbuds",1
+Keyboard,"Boat Earbuds",1
+"Sony Headphones",Jacket,1
+"Laptop Stand","Pressure Cooker",1
+"Operating Systems","Kids T-Shirt",1
+"Office Chair","Computer Networks",1
+Dress,Hoodie,1
+"Usb Hub",Jacket,1
+"Logitech Mouse",Jeans,1
+"Wall Clock",Jeans,1
+"Kids T-Shirt","Nothing Phone 3",1
+"Boat Earbuds","Flower Vase",1
+"Office Chair",Kurti,1
+"Pressure Cooker",Kurti,1
+"Samsung Galaxy S24","Pressure Cooker",1
+Naruto,"The Alchemist",1
+"Sony Headphones","Macbook Air",1
+"Samsung Galaxy S24","Computer Networks",1
+Keyboard,"Operating Systems",1
+Lamp,"Jbl Speaker",1
+Dress,"Jbl Speaker",1
+Batman,Lamp,1
+"Hp Pavilion","Operating Systems",1
+"Sony Headphones",Naruto,1
+Jacket,"Men'S T-Shirt",1
+Batman,"Macbook Air",1
+Lamp,"Macbook Air",1
+"Kids T-Shirt","Laptop Stand",1
+Dress,Jeans,1
+"Jbl Speaker","Logitech Mouse",1
+Shirt,"Harry Potter",1
+"Lenovo Ideapad","Dining Table",1
+"Boat Earbuds",Batman,1
+Shirt,"Computer Networks",1
+Hoodie,"Macbook Air",1
+"Computer Networks","Marvel Comics",1
+Naruto,Jeans,1
+"Jbl Speaker",Naruto,1
+Jeans,Naruto,1
+"Mixer Grinder","Dell Inspiron",1
+Hoodie,"Computer Networks",1
+"Boat Earbuds","Office Chair",1
+Jeans,"Iphone 15",1
+"Lenovo Ideapad","Iphone 15",1
+"Office Chair",Dbms,1
+"Dining Table","Iphone 15",1
+"Usb Hub","Iphone 15",1
+Dress,Shirt,1
+"Logitech Mouse",Naruto,1
+"Logitech Mouse",Dress,1
+"Lenovo Ideapad",Lamp,1
+"Jbl Speaker",Keyboard,1
+"Nothing Phone 3","Flower Vase",1
+"Office Chair","Usb Hub",1
+Dbms,Jeans,1
+"Operating Systems","Dell Inspiron",1
+"Laptop Stand","Dell Inspiron",1
+"The Alchemist","Dell Inspiron",1
+"Operating Systems",Shorts,1
+"Logitech Mouse","Harry Potter",1
+Jacket,"Samsung Galaxy S24",1
+"Hp Pavilion",Jacket,1
+"Computer Networks","Oneplus 12",1
+"Wall Clock","Mixer Grinder",1
+Airpods,"Oneplus 12",1
+Keyboard,"Laptop Stand",1
+"Marvel Comics","Computer Networks",1
+"The Alchemist",Batman,1
+Kurti,"Operating Systems",1
+Dbms,Batman,1
+"Usb Hub","Oneplus 12",1
+Jeans,Microwave,1
+"Flower Vase","Laptop Stand",1
+Lamp,"The Alchemist",1
+Airpods,Lamp,1
+Batman,"Marvel Comics",1
+Jeans,"Study Table",1
+"Nothing Phone 3",Microwave,1
+"Nothing Phone 3","Study Table",1
+"Nothing Phone 3",Keyboard,1
+"Computer Networks","Nothing Phone 3",1
+Jeans,Keyboard,1
+Keyboard,"Wall Clock",1
+"Lenovo Ideapad",Hoodie,1
+"Wall Clock","Pressure Cooker",1
+Hoodie,"Dining Table",1
+"Kids T-Shirt","Jbl Speaker",1
+"Samsung Galaxy S24","Study Table",1
+"Usb Hub","Mixer Grinder",1
+"Marvel Comics","Mixer Grinder",1
+Shirt,Lamp,1
+"Marvel Comics","Office Chair",1
+Top,"Nothing Phone 3",1
+Dbms,Lamp,1
+"Men'S T-Shirt","Boat Earbuds",1
+Kurti,"Flower Vase",1
+Naruto,"Logitech Mouse",1
+"The Alchemist",Kurti,1
+"Study Table",Airpods,1
+Kurti,"Harry Potter",1
+"Samsung Galaxy S24",Dress,1
+Airpods,"Operating Systems",1
+Batman,"Operating Systems",1
+"Hp Pavilion","Wall Clock",1
+Keyboard,Top,1
+"Kids T-Shirt","Logitech Mouse",1
+Jacket,"Sony Headphones",1
+"Marvel Comics",Naruto,1
+Kurti,Shorts,1
+"Boat Earbuds","Jbl Speaker",1
+Kurti,"Jbl Speaker",1
+Jeans,"Jbl Speaker",1
+Airpods,"Jbl Speaker",1
+Microwave,"Macbook Air",1
+Dress,"Macbook Air",1
+"Office Chair",Jeans,1
+"Study Table",Batman,1
+"Boat Earbuds",Keyboard,1
+Lamp,Hoodie,1
+"The Alchemist","Boat Earbuds",1
+"Laptop Stand","Computer Networks",1
+Jeans,"Lenovo Ideapad",1
+"Flower Vase",Shirt,1
+Airpods,Shirt,1
+"Kids T-Shirt","The Alchemist",1
+"Hp Pavilion","Dining Table",1
+"Iphone 15",Top,1
+"Laptop Stand","Mixer Grinder",1
+"Wall Clock",Hoodie,1
+Dress,Jacket,1
+"Wall Clock","Boat Earbuds",1
+Dress,"Nothing Phone 3",1
+Shirt,"Flower Vase",1
+"Kids T-Shirt","Flower Vase",1
+"Office Chair","Dell Inspiron",1
+"Sony Headphones","Mixer Grinder",1
+"Men'S T-Shirt","Flower Vase",1
+"Mixer Grinder","Boat Earbuds",1
+Naruto,"Boat Earbuds",1
+"Logitech Mouse","Boat Earbuds",1
+"Study Table","Nothing Phone 3",1
+Jacket,Shorts,1
+"Operating Systems","Operating Systems",1
+Dbms,"Dell Inspiron",1
+"Samsung Galaxy S24","Hp Pavilion",1
+"Wall Clock","Hp Pavilion",1
+Keyboard,"Hp Pavilion",1
+"Operating Systems",Hoodie,1
+"Harry Potter","Macbook Air",1
+Kurti,"Samsung Galaxy S24",1
+"Computer Networks",Kurti,1
+"Nothing Phone 3",Jeans,1
+Keyboard,Jeans,1
+"Mixer Grinder","Macbook Air",1
+"Kids T-Shirt","Macbook Air",1
+"Nothing Phone 3","The Alchemist",1
+"Oneplus 12","The Alchemist",1
+"Computer Networks",Top,1
+Microwave,"Laptop Stand",1
+Jacket,"Study Table",1
+"Jbl Speaker","Samsung Galaxy S24",1
+"Lenovo Ideapad","Usb Hub",1
+"Mixer Grinder","Men'S T-Shirt",1
+"Flower Vase","Macbook Air",1
+"Logitech Mouse","Macbook Air",1
+"Sony Headphones","Nothing Phone 3",1
+"Samsung Galaxy S24","Samsung Galaxy S24",1
+Airpods,Hoodie,1
+"Computer Networks","Jbl Speaker",1
+Shorts,"Dell Inspiron",1
+Jeans,Dbms,1
+Hoodie,"Wall Clock",1
+"Operating Systems",Jeans,1
+"Usb Hub","Usb Hub",1
+"Marvel Comics","Hp Pavilion",1
+"Computer Networks","Hp Pavilion",1
+"Jbl Speaker","The Alchemist",1
+"Laptop Stand","Operating Systems",1
+"Laptop Stand",Airpods,1
+"Office Chair","Operating Systems",1
+Naruto,Dress,1
+"Marvel Comics",Dress,1
+"Sony Headphones",Batman,1
+Shirt,Jeans,1
+"Boat Earbuds",Jeans,1
+"The Alchemist",Keyboard,1
+"Usb Hub",Keyboard,1
+Lamp,"Usb Hub",1
+Batman,"Usb Hub",1
+"Marvel Comics","Usb Hub",1
+"Operating Systems",Kurti,1
+"Mixer Grinder",Airpods,1
+"Logitech Mouse",Airpods,1
+Naruto,Airpods,1
+"Harry Potter",Airpods,1
+"The Alchemist","Kids T-Shirt",1
+"The Alchemist",Naruto,1
+Shorts,"Computer Networks",1
+"Marvel Comics",Airpods,1
+Dbms,Airpods,1

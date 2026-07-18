@@ -1,0 +1,201 @@
+product_id,product_name,category,subcategory,cost_price
+P0001,Harry Potter,Books,Fiction,32121.05
+P0002,OnePlus 12,Electronics,Mobile,12254.09
+P0003,Jeans,Clothing,Men,29360.52
+P0004,Dress,Clothing,Women,39453.32
+P0005,Mixer Grinder,Home,Kitchen,27056.75
+P0006,Samsung Galaxy S24,Electronics,Mobile,841.53
+P0007,Shorts,Clothing,Kids,887.48
+P0008,Shorts,Clothing,Kids,26351.67
+P0009,DBMS,Books,Education,25710.57
+P0010,Kids T-Shirt,Clothing,Kids,36389.43
+P0011,study table,Home,Furniture,48204.91
+P0012,Computer Networks,Books,Education,5487.3
+P0013,Harry Potter,Books,Fiction,16173.38
+P0014,Top,Clothing,Women,19107.13
+P0015,  Study Table  ,Home,Furniture,30310.8
+P0016,Lenovo IdeaPad,Electronics,Laptop,22632.59
+P0017,dining table,Home,Furniture,20857.88
+P0018,Lamp,Home,Decor,18777.62
+P0019,HARRY POTTER,Books,Fiction,41605.42
+P0020,Microwave,Home,Kitchen,3093.05
+P0021,Wall Clock,Home,Decor,20599.35
+P0022,Marvel Comics,Books,Comics,48423.09
+P0023,Microwave,Home,Kitchen,25419.89
+P0024,Harry Potter,Books,Fiction,17570.69
+P0025,USB Hub,Electronics,Accessories,40380.35
+P0026,Logitech Mouse,Electronics,Accessories,9102.76
+P0027,Dining Table,Home,Furniture,404.68
+P0028,Harry Potter,Books,Fiction,37074.36
+P0029,Lenovo IdeaPad,Electronics,Laptop,21049.64
+P0030,Study Table,Home,Furniture,16286.71
+P0031,Samsung Galaxy S24,Electronics,Mobile,7954.75
+P0032,Laptop Stand,Electronics,Accessories,33130.74
+P0033,DBMS,Books,Education,10856.89
+P0034,Office Chair,Home,Furniture,14234.0
+P0035,Naruto,Books,Comics,15490.13
+P0036,Samsung Galaxy S24,Electronics,Mobile,15140.83
+P0037,  Top  ,Clothing,Women,16473.31
+P0038,Harry Potter,Books,Fiction,19072.35
+P0039,PRESSURE COOKER,Home,Kitchen,43102.04
+P0040,The Alchemist,Books,Fiction,28830.38
+P0041,Operating Systems,Books,Education,20311.11
+P0042,Shorts,Clothing,Kids,41618.09
+P0043,Boat Earbuds,Electronics,Audio,12241.49
+P0044,Sony Headphones,Electronics,Audio,37315.66
+P0045,Men's T-Shirt,Clothing,Men,26577.18
+P0046,Study Table,Home,Furniture,47915.35
+P0047,Men's T-Shirt,Clothing,Men,7407.57
+P0048,Kids T-Shirt,Clothing,Kids,8939.59
+P0049,Computer Networks,Books,Education,38017.87
+P0050,lamp,Home,Decor,7632.77
+P0051,Study Table,Home,Furniture,2902.99
+P0052,Dining Table,Home,Furniture,1976.6
+P0053,Microwave,Home,Kitchen,43226.08
+P0054,Computer Networks,Books,Education,27760.39
+P0055,JBL Speaker,Electronics,Audio,16144.19
+P0056,Shirt,Clothing,Men,5264.74
+P0057,Wall Clock,Home,Decor,25277.0
+P0058,Shorts,Clothing,Kids,49550.2
+P0059,Top,Clothing,Women,45905.05
+P0060,Flower Vase,Home,Decor,2713.04
+P0061,Pressure Cooker,Home,Kitchen,4815.85
+P0062,Study Table,Home,Furniture,42593.16
+P0063,Kurti,Clothing,Women,29178.7
+P0064,Study Table,Home,Furniture,34954.15
+P0065,Laptop Stand,Electronics,Accessories,32210.31
+P0066,Jacket,Clothing,Kids,41465.05
+P0067,Sony Headphones,Electronics,Audio,1009.7
+P0068,Jeans,Clothing,Women,9681.06
+P0069,Hoodie,Clothing,Men,42236.98
+P0070,USB Hub,Electronics,Accessories,29902.6
+P0071,Jacket,Clothing,Kids,40471.28
+P0072,The Alchemist,Books,Fiction,18278.54
+P0073,Batman,Books,Comics,37644.32
+P0074,Kids T-Shirt,Clothing,Kids,15542.45
+P0075,The Alchemist,Books,Fiction,33947.51
+P0076,DBMS,Books,Education,38928.39
+P0077,Harry Potter,Books,Fiction,40082.84
+P0078,Microwave,Home,Kitchen,24081.47
+P0079,OnePlus 12,Electronics,Mobile,4285.37
+P0080,MARVEL COMICS,Books,Comics,41569.23
+P0081,Operating Systems,Books,Education,20803.36
+P0082,Pressure Cooker,Home,Kitchen,49726.82
+P0083,Logitech Mouse,Electronics,Accessories,41974.9
+P0084,Men's T-Shirt,Clothing,Men,14415.28
+P0085,SHORTS,Clothing,Kids,22485.21
+P0086,USB Hub,Electronics,Accessories,41764.66
+P0087,The Alchemist,Books,Fiction,11958.25
+P0088,Jeans,Clothing,Women,3234.08
+P0089,Naruto,Books,Comics,920.12
+P0090,kids t-shirt,Clothing,Kids,14634.47
+P0091,Shorts,Clothing,Kids,9446.96
+P0092,Microwave,Home,Kitchen,27249.69
+P0093,AirPods,Electronics,Audio,2272.37
+P0094,Study Table,Home,Furniture,910.49
+P0095,Microwave,Home,Kitchen,32889.51
+P0096,Mixer Grinder,Home,Kitchen,17679.72
+P0097,Shorts,Clothing,Kids,49042.88
+P0098,Men's T-Shirt,Clothing,Men,35830.65
+P0099,USB Hub,Electronics,Accessories,2285.93
+P0100,Keyboard,Electronics,Accessories,25817.64
+P0101,Operating Systems,Books,Education,37689.22
+P0102,Microwave,Home,Kitchen,16663.04
+P0103,Dining Table,Home,Furniture,37191.05
+P0104,Operating Systems,Books,Education,24860.54
+P0105,Microwave,Home,Kitchen,21282.53
+P0106,  Shorts  ,Clothing,Kids,16128.45
+P0107,Dining Table,Home,Furniture,30170.82
+P0108,DBMS,Books,Education,2213.52
+P0109,Lamp,Home,Decor,13800.31
+P0110,Nothing Phone 3,Electronics,Mobile,18229.23
+P0111,Jeans,Clothing,Men,42448.6
+P0112,Harry Potter,Books,Fiction,3454.94
+P0113,DINING TABLE,Home,Furniture,47478.41
+P0114,DBMS,Books,Education,22252.57
+P0115,Dining Table,Home,Furniture,32513.08
+P0116,Samsung Galaxy S24,Electronics,Mobile,25002.29
+P0117,Keyboard,Electronics,Accessories,35231.49
+P0118,Lamp,Home,Decor,10088.9
+P0119,JBL Speaker,Electronics,Audio,44944.08
+P0120,Keyboard,Electronics,Accessories,35506.07
+P0121,Office Chair,Home,Furniture,35619.27
+P0122,Dress,Clothing,Women,6155.99
+P0123,Shirt,Clothing,Men,1411.57
+P0124,Study Table,Home,Furniture,6575.58
+P0125,Laptop Stand,Electronics,Accessories,49979.79
+P0126,Computer Networks,Books,Education,3780.16
+P0127,AirPods,Electronics,Audio,34037.44
+P0128,Shirt,Clothing,Men,25192.9
+P0129,HP Pavilion,Electronics,Laptop,8316.39
+P0130,Top,Clothing,Women,42312.09
+P0131,Microwave,Home,Kitchen,15210.95
+P0132,Jacket,Clothing,Kids,7794.29
+P0133,WALL CLOCK,Home,Decor,41279.29
+P0134,Wall Clock,Home,Decor,38371.25
+P0135,Sony Headphones,Electronics,Audio,32131.17
+P0136,SHORTS,Clothing,Kids,14941.95
+P0137,Jeans,Clothing,Women,24264.13
+P0138,Top,Clothing,Women,36736.57
+P0139,The Alchemist,Books,Fiction,25797.51
+P0140,Kurti,Clothing,Women,13446.84
+P0141,OnePlus 12,Electronics,Mobile,47274.71
+P0142,Harry Potter,Books,Fiction,40692.54
+P0143,Mixer Grinder,Home,Kitchen,24963.45
+P0144,DBMS,Books,Education,1256.5
+P0145,harry potter,Books,Fiction,29208.87
+P0146,Naruto,Books,Comics,33658.78
+P0147,Nothing Phone 3,Electronics,Mobile,6783.35
+P0148,  Dining Table  ,Home,Furniture,2357.6
+P0149,Top,Clothing,Women,3769.23
+P0150,Flower Vase,Home,Decor,30591.05
+P0151,Sony Headphones,Electronics,Audio,39765.37
+P0152,Mixer Grinder,Home,Kitchen,30162.9
+P0153,iPhone 15,Electronics,Mobile,6938.12
+P0154,Batman,Books,Comics,7532.14
+P0155,Top,Clothing,Women,8208.85
+P0156,Lamp,Home,Decor,25415.02
+P0157,Naruto,Books,Comics,15059.55
+P0158,Study Table,Home,Furniture,5569.27
+P0159,Flower Vase,Home,Decor,31500.1
+P0160,Flower Vase,Home,Decor,28923.96
+P0161,The Alchemist,Books,Fiction,7474.01
+P0162,Samsung Galaxy S24,Electronics,Mobile,1044.97
+P0163,Dress,Clothing,Women,20577.83
+P0164,Naruto,Books,Comics,3207.84
+P0165,Shorts,Clothing,Kids,49906.33
+P0166,Operating Systems,Books,Education,23037.21
+P0167,Flower Vase,Home,Decor,34069.22
+P0168,Lamp,Home,Decor,9693.98
+P0169,Pressure Cooker,Home,Kitchen,38581.6
+P0170,DBMS,Books,Education,17505.28
+P0171,Office Chair,Home,Furniture,28716.49
+P0172,Operating Systems,Books,Education,14593.59
+P0173,Laptop Stand,Electronics,Accessories,32833.01
+P0174,Hoodie,Clothing,Men,46657.89
+P0175,Jeans,Clothing,Men,12198.66
+P0176,Kids T-Shirt,Clothing,Kids,2719.31
+P0177,Harry Potter,Books,Fiction,358.55
+P0178,Jeans,Clothing,Women,23924.68
+P0179,Dining Table,Home,Furniture,32330.31
+P0180,Dell Inspiron,Electronics,Laptop,45670.16
+P0181,Shirt,Clothing,Men,39419.24
+P0182,Mixer Grinder,Home,Kitchen,14989.77
+P0183,Dining Table,Home,Furniture,49456.06
+P0184,The Alchemist,Books,Fiction,13714.57
+P0185,Microwave,Home,Kitchen,22999.83
+P0186,Hoodie,Clothing,Men,39559.31
+P0187,Shirt,Clothing,Men,41366.79
+P0188,Boat Earbuds,Electronics,Audio,9320.58
+P0189,Mixer Grinder,Home,Kitchen,13113.19
+P0190,Dining Table,Home,Furniture,29164.79
+P0191,LAMP,Home,Decor,34669.15
+P0192,Operating Systems,Books,Education,20330.29
+P0193,Wall Clock,Home,Decor,31971.7
+P0194,Wall Clock,Home,Decor,11034.52
+P0195,Top,Clothing,Women,20850.7
+P0196,Naruto,Books,Comics,41297.62
+P0197,Sony Headphones,Electronics,Audio,3997.33
+P0198,MacBook Air,Electronics,Laptop,8310.4
+P0199,Harry Potter,Books,Fiction,35874.21
+P0200,The Alchemist,Books,Fiction,6684.02

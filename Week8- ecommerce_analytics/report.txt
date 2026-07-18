@@ -1,0 +1,69 @@
+Objective
+
+The objective of this assignment was to build an end-to-end e-commerce order analytics system using Python and SQLite. The project involved generating datasets, cleaning inconsistent data, performing SQL analysis, integrating Python with SQLite, and validating edge cases.
+
+Tasks Performed
+1. Data Generation
+
+Generated four datasets:
+
+Customers
+Products
+Orders
+Order Items
+
+The datasets contained intentional inconsistencies such as:
+
+Missing customer IDs
+Invalid email addresses
+Mixed date formats
+Negative quantities
+Broken order references
+
+2. Data Cleaning
+
+Implemented the following functions:
+
+clean_orders()
+clean_products()
+validate_emails()
+check_referential_integrity()
+
+The cleaning process standardized date formats, normalized product names, validated email addresses, and identified broken references between orders and order_items.
+
+3. SQL Analysis
+
+Loaded the cleaned datasets into SQLite and implemented:
+
+Basic SQL Queries
+Intermediate SQL Queries
+Advanced SQL Queries using CTEs and Window Functions
+
+The queries generated business insights such as revenue analysis, customer rankings, return rates, running totals, cohort analysis, and year-over-year comparisons.
+
+4. Python + SQLite Integration
+
+Created a command-line report generator that:
+
+Accepts a report type and date range
+Connects to the SQLite database
+Displays:
+Total Orders
+Revenue
+Unique Customers
+Top 3 Products
+Previous Period Comparison
+5. Edge Case Validation
+
+Implemented test functions to validate:
+
+Invalid order_id
+Discount greater than 100%
+Zero quantity
+Future order dates
+
+During validation, 30 invalid order_id references were detected. The assignment required only identifying broken references through check_referential_integrity(), which was implemented accordingly. Hence, the invalid records were reported but not modified. In a production ETL pipeline, these records would typically be corrected or removed before loading the cleaned data into the database.
+
+Conclusion
+
+This assignment provided hands-on experience with data generation, data cleaning, SQL querying, SQLite database management, Python-SQL integration, and data validation. It demonstrated the complete workflow involved in building a basic data analytics pipeline using Python and SQL.

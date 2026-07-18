@@ -1,0 +1,96 @@
+product_id,product_name,returned_items,purchased_items
+P0193,"Wall Clock",22,10
+P0070,"Usb Hub",15,11
+P0037,Top,11,4
+P0158,"Study Table",14,6
+P0031,"Samsung Galaxy S24",15,1
+P0121,"Office Chair",15,2
+P0025,"Usb Hub",5,4
+P0050,Lamp,8,4
+P0130,Top,24,14
+P0028,"Harry Potter",13,12
+P0114,Dbms,15,11
+P0173,"Laptop Stand",8,6
+P0017,"Dining Table",10,8
+P0032,"Laptop Stand",7,3
+P0152,"Mixer Grinder",11,10
+P0060,"Flower Vase",7,5
+P0128,Shirt,16,2
+P0120,Keyboard,10,5
+P0099,"Usb Hub",5,2
+P0143,"Mixer Grinder",6,1
+P0091,Shorts,18,9
+P0109,Lamp,9,7
+P0006,"Samsung Galaxy S24",16,1
+P0087,"The Alchemist",13,4
+P0020,Microwave,10,9
+P0103,"Dining Table",5,0
+P0141,"Oneplus 12",9,6
+P0170,Dbms,17,9
+P0077,"Harry Potter",13,11
+P0053,Microwave,15,2
+P0080,"Marvel Comics",13,2
+P0149,Top,15,4
+P0192,"Operating Systems",9,3
+P0071,Jacket,12,0
+P0038,"Harry Potter",11,6
+P0065,"Laptop Stand",15,4
+P0187,Shirt,11,7
+P0165,Shorts,3,2
+P0183,"Dining Table",16,2
+P0082,"Pressure Cooker",13,7
+P0013,"Harry Potter",8,5
+P0044,"Sony Headphones",9,5
+P0069,Hoodie,11,0
+P0008,Shorts,6,1
+P0156,Lamp,3,0
+P0144,Dbms,9,3
+P0197,"Sony Headphones",12,4
+P0023,Microwave,18,5
+P0132,Jacket,13,0
+P0040,"The Alchemist",14,-4
+P0123,Shirt,9,2
+P0181,Shirt,11,5
+P0067,"Sony Headphones",14,0
+P0004,Dress,9,4
+P0155,Top,15,4
+P0138,Top,17,8
+P0086,"Usb Hub",3,2
+P0176,"Kids T-Shirt",7,4
+P0162,"Samsung Galaxy S24",15,3
+P0093,Airpods,12,1
+P0167,"Flower Vase",10,7
+P0186,Hoodie,11,5
+P0161,"The Alchemist",3,2
+P0073,Batman,9,8
+P0189,"Mixer Grinder",10,4
+P0047,"Men'S T-Shirt",10,6
+P0066,Jacket,12,5
+P0016,"Lenovo Ideapad",7,3
+P0190,"Dining Table",4,3
+P0036,"Samsung Galaxy S24",7,0
+P0085,Shorts,10,9
+P0174,Hoodie,4,0
+P0062,"Study Table",8,3
+P0003,Jeans,8,3
+P0033,Dbms,8,4
+P0112,"Harry Potter",12,5
+P0049,"Computer Networks",9,3
+P0131,Microwave,6,5
+P0076,Dbms,8,0
+P0011,"Study Table",4,3
+P0163,Dress,9,5
+P0124,"Study Table",8,7
+P0010,"Kids T-Shirt",15,8
+P0129,"Hp Pavilion",11,1
+P0057,"Wall Clock",6,5
+P0122,Dress,11,9
+P0166,"Operating Systems",19,6
+P0002,"Oneplus 12",11,7
+P0001,"Harry Potter",14,11
+P0108,Dbms,6,4
+P0096,"Mixer Grinder",10,9
+P0119,"Jbl Speaker",4,-2
+P0199,"Harry Potter",12,8
+P0175,Jeans,6,4
+P0075,"The Alchemist",5,0
