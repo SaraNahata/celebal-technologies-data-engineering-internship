@@ -1,264 +1,157 @@
-\# Week 8 - E-Commerce Order Analytics System
+# Week 8 – E-Commerce Order Analytics System
 
+## Overview
 
+This project demonstrates an end-to-end **E-Commerce Order Analytics System** built using **Python, Pandas, SQLite, and SQL**. The workflow covers the complete data pipeline, including synthetic data generation, data cleaning, SQL-based business analysis, Python-SQL integration, and edge case validation.
 
-\## Overview
+The objective is to simulate a real-world analytics workflow by preparing clean, relational datasets, storing them in a SQLite database, and extracting meaningful business insights through SQL queries and automated reporting.
 
+---
 
+## Technologies Used
 
-The project focuses on building an end-to-end e-commerce analytics pipeline using \*\*Python, Pandas, SQLite, and SQL\*\*. It includes data generation, data cleaning, SQL analysis, Python-SQL integration, and edge case validation.
+* Python
+* Pandas
+* SQLite
+* SQL
+* Jupyter Notebook
 
+---
 
+## Project Structure
 
-\---
-
-
-
-\## Technologies Used
-
-
-
-\- Python
-
-\- Pandas
-
-\- SQLite
-
-\- SQL
-
-\- Jupyter Notebook
-
-
-
-\---
-
-
-
-\## Project Structure
-
-
-
-```
-
-Week8- ecommerce\_analytics/
-
+```text
+Week8-ecommerce_analytics/
 │
-
 ├── README.md
-
 │
-
 ├── Data Generation
-
 │   └── data/
-
-│       └── raw\_data/
-
+│       └── raw_data/
 │           ├── customers.csv
-
 │           ├── orders.csv
-
-│           ├── order\_items.csv
-
+│           ├── order_items.csv
 │           └── products.csv
-
 │
-
 ├── Data Cleaning
-
-│   ├── cleaning\_data.py
-
+│   ├── cleaning_data.py
 │   └── data/
-
 │       └── cleaned/
-
 │           ├── customers.csv
-
 │           ├── orders.csv
-
-│           ├── order\_items.csv
-
+│           ├── order_items.csv
 │           └── products.csv
-
 │
-
 ├── SQL Analysis
-
 │   ├── sql-queries/
-
-│   │   ├── basic\_queries.sql
-
-│   │   ├── intermediate\_queries.sql
-
-│   │   └── advanced\_queries.sql
-
+│   │   ├── basic_queries.sql
+│   │   ├── intermediate_queries.sql
+│   │   └── advanced_queries.sql
 │   │
-
 │   └── sql-queries-outputs/
-
-│       ├── basic\_queries/
-
-│       ├── intermediate\_queries/
-
-│       └── advanced\_queries/
-
+│       ├── basic_queries/
+│       ├── intermediate_queries/
+│       └── advanced_queries/
 │
-
 ├── Python + SQL Integration
-
-│   ├── create\_database\_for\_report.py
-
-│   ├── report\_generator.py
-
-│   ├── report\_generator-output.png
-
-│── database/
-
+│   ├── create_database_for_report.py
+│   ├── report_generator.py
+│   ├── report_generator-output.png
+│   └── database/
 │       ├── ecommerce.db
-
 │       └── schema.sql
-
 │
-
 └── Edge Case Handling
-
-&#x20;   ├── Edge\_cases\_check.py
-
-&#x20;   └── Edge\_cases\_check-output.png
-
+    ├── Edge_cases_check.py
+    └── Edge_cases_check-output.png
 ```
 
+---
 
+## Workflow
 
-\---
+### 1. Data Generation
 
+* Generated realistic e-commerce datasets.
+* Included intentional inconsistencies to simulate real-world data quality issues.
+* Created relational datasets for customers, orders, products, and order items.
 
+### 2. Data Cleaning
 
-\## Workflow
+* Cleaned and standardized all datasets using Pandas.
+* Validated email addresses.
+* Corrected inconsistent date formats.
+* Normalized product names.
+* Removed duplicates and handled missing values where necessary.
+* Verified referential integrity between related tables.
 
+### 3. SQL Analysis
 
+Performed SQL analysis at multiple levels:
 
-\### Data Generation
+* Basic queries for filtering and aggregation.
+* Intermediate queries using joins and grouping.
+* Advanced queries involving multiple joins, ranking, and analytical business insights.
 
-\- Generated realistic e-commerce datasets with intentional inconsistencies.
+### 4. Python + SQL Integration
 
+* Created a SQLite database from the cleaned datasets.
+* Loaded data into relational tables.
+* Developed a Python-based report generator to automate business reporting.
 
+### 5. Edge Case Handling
 
-\### Data Cleaning
+Validated common data quality issues including:
 
-\- Cleaned and standardized the generated datasets.
+* Invalid Order IDs
+* Incorrect discount values
+* Zero-quantity order items
+* Future order dates
+* Other integrity checks
 
-\- Validated emails, corrected date formats, normalized product names, and checked referential integrity.
+---
 
+## How to Run
 
-
-\### SQL Analysis
-
-\- Performed basic, intermediate, and advanced SQL queries to generate business insights.
-
-
-
-\### Python + SQL Integration
-
-\- Created a SQLite database and built a command-line report generator.
-
-
-
-\### Edge Case Handling
-
-\- Tested invalid order IDs, incorrect discounts, zero quantities, and future order dates.
-
-
-
-\---
-
-
-
-\## How to Run
-
-
-
-1\. Clean the datasets
-
-
+### Step 1: Clean the datasets
 
 ```bash
-
-python cleaning\_data.py
-
+python cleaning_data.py
 ```
 
-
-
-2\. Create the database
-
-
+### Step 2: Create the SQLite database
 
 ```bash
-
-python create\_database\_for\_report.py
-
+python create_database_for_report.py
 ```
 
-
-
-3\. Generate reports
-
-
+### Step 3: Generate analytical reports
 
 ```bash
-
-python report\_generator.py
-
+python report_generator.py
 ```
 
-
-
-4\. Run edge case tests
-
-
+### Step 4: Execute edge case validation
 
 ```bash
-
-python Edge\_cases\_check.py
-
+python Edge_cases_check.py
 ```
 
+---
 
+## Learning Outcomes
 
-\---
+Through this project, the following concepts were implemented and practiced:
 
+* Synthetic Data Generation
+* Data Cleaning using Pandas
+* Relational Database Design
+* SQLite Database Management
+* SQL Query Writing (Basic, Intermediate, and Advanced)
+* Python and SQL Integration
+* Business Report Automation
+* Data Validation and Edge Case Testing
 
+---
 
-\## Learning Outcomes
-
-
-
-\- Data Generation
-
-\- Data Cleaning using Pandas
-
-\- SQL Analysis
-
-\- SQLite Database Management
-
-\- Python and SQL Integration
-
-\- Edge Case Testing
-
-
-
-\---
-
-
-
-\## Author
-
-
-
-\*\*Sara Nahata\*\*
-
-
-
-Celebal Technologies – Data Engineering Internship (Week 8)
 
