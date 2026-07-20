@@ -1,0 +1,271 @@
+Product_ID,Product_Name,Category,Brand,Supplier,Unit_Price,Launch_Date
+P1007,Surf Excel Easy Wash 400g,Household,Surf Excel,Retail Connect,495.0,2020-05-26
+P1018,Nescafe Coffee 180ml,Beverages,Nescafe,FreshMart Suppliers,90.0,2023-04-13
+P1044,Horlicks Classic 180ml,Health & Wellness,Horlicks,Retail Connect,603.0,2022-07-19
+P1050,Haldiram Bhujia 500g,Snacks,Haldiram,National Wholesale,303.0,2021-05-12
+P1073,Tata Sampann Toor Dal 180ml,Staples,Tata Sampann,ABC Distributors,811.0,2024-02-09
+P1099,Fortune Sunflower Oil 250ml,Staples,Fortune,,486.0,2024-03-18
+P1117,Johnson's Baby Oil 100g,Baby Care,Johnson's,National Wholesale,262.0,2022-03-04
+P1122,Amul Butter 1kg,Dairy,Amul,Retail Connect,715.0,2019-03-26
+P1131,Nescafe Coffee 80g,Beverages,Nescafe,National Wholesale,758.0,2024-09-15
+P1134,Surf Excel Easy Wash 250ml,Household,Surf Excel,National Wholesale,768.0,2024-06-28
+P1150,Coca-Cola Bottle 80g,Beverages,Coca-cola,FastMove Logistics,667.0,2019-06-11
+P1008,Safal Green Peas 40g,Frozen Foods,Safal,Retail Connect,668.0,2023-01-21
+P1012,Pepsi Bottle 500g,Beverages,Pepsi,FreshMart Suppliers,498.0,2022-01-10
+P1020,Vim Dishwash Gel 200g,Household,Vim,FreshMart Suppliers,325.0,2020-10-09
+P1063,Surf Excel Matic 180ml,Household,Surf Excel,ABC Distributors,296.0,2020-03-20
+P1082,Sunsilk Shampoo 2L,Personal Care,Sunsilk,ABC Distributors,450.0,2021-04-27
+P1093,Lay's Magic Masala 250ml,Snacks,Lay's,Retail Connect,135.0,2019-04-16
+P1119,Tropicana Orange Juice 40g,Beverages,Tropicana,ABC Distributors,170.0,2019-09-02
+P1126,Lux Soap 500ml,Personal Care,Lux,FreshMart Suppliers,143.0,2024-10-08
+P1139,Parle Monaco 750g,Snacks,Parle,National Wholesale,296.0,2023-06-17
+P1023,Colgate Toothpaste 100g,Personal Care,Colgate,National Wholesale,139.0,2022-06-13
+P1028,Fortune Atta 200g,Staples,Fortune,ABC Distributors,371.0,2021-07-31
+P1055,Amul Paneer 500ml,Dairy,Amul,ABC Distributors,840.0,2023-01-05
+P1061,Tata Sampann Toor Dal 500ml,Staples,Tata Sampann,ABC Distributors,310.0,2022-02-17
+P1086,Johnson's Baby Soap 180ml,Baby Care,Johnson's,ABC Distributors,571.0,2023-06-02
+P1100,Johnson's Baby Oil 500g,Baby Care,Johnson's,Prime FMCG Supply,524.0,2022-12-24
+P1103,Johnson's Baby Oil 750g,Baby Care,Johnson's,ABC Distributors,42.0,2022-04-20
+P1120,Vim Dishwash Gel 2L,Household,Vim,FreshMart Suppliers,152.0,2022-05-30
+P1129,Johnson's Baby Soap 100g,Baby Care,Johnson's,Retail Connect,670.0,2021-09-07
+P1004,Safal Green Peas 1kg,Frozen Foods,Safal,Retail Connect,484.0,2022-02-13
+P1016,Aashirvaad Atta 400g,Staples,Aashirvaad,FreshMart Suppliers,623.0,2023-06-24
+P1021,Surf Excel Matic 5kg,Household,Surf Excel,FastMove Logistics,133.0,2022-05-07
+P1049,Safal Green Peas 80g,Frozen Foods,Safal,ABC Distributors,704.0,2020-07-04
+P1096,Dove Soap 40g,Personal Care,Dove,FreshMart Suppliers,455.0,2020-03-08
+P1108,Safal Green Peas 200g,Frozen Foods,Safal,National Wholesale,223.0,2021-07-20
+P1116,Coca-Cola Bottle 500g,Beverages,Coca-cola,FreshMart Suppliers,27.0,2024-01-20
+P1133,Bingo Mad Angles 750g,Snacks,Bingo,FreshMart Suppliers,833.0,2022-10-24
+P1143,Colgate Toothpaste 500g,Personal Care,Colgate,Retail Connect,275.0,2023-08-15
+P1011,Dove Shampoo 340ml,Personal Care,Dove,FastMove Logistics,298.0,2019-10-20
+P1013,McCain French Fries 340ml,Frozen Foods,Mccain,ABC Distributors,357.0,2021-07-27
+P1035,Tropicana Orange Juice 2L,Beverages,Tropicana,ABC Distributors,280.0,2023-12-21
+P1039,Johnson's Baby Oil 1L,Baby Care,Johnson's,FastMove Logistics,738.0,2024-06-16
+P1054,Coca-Cola Bottle 40g,Beverages,Coca-cola,Retail Connect,403.0,2020-08-29
+P1057,Pepsi Bottle 40g,Beverages,Pepsi,,191.0,2023-08-16
+P1087,Amul Butter 340ml,Dairy,Amul,Prime FMCG Supply,463.0,2024-03-06
+P1098,Safal Green Peas 2L,Frozen Foods,Safal,FastMove Logistics,471.0,2022-01-04
+P1112,Haldiram Bhujia 340ml,Snacks,Haldiram,ABC Distributors,727.0,2020-09-13
+P1127,Safal Green Peas 1L,Frozen Foods,Safal,Prime FMCG Supply,80.0,2024-10-24
+P1045,Dove Shampoo 250ml,Personal Care,Dove,,430.0,2022-05-13
+P1077,Himalaya Baby Lotion 5kg,Baby Care,Himalaya,Retail Connect,597.0,2022-07-23
+P1091,Britannia Cheese 500g,Dairy,Britannia,Prime FMCG Supply,269.0,2024-04-23
+P1123,Horlicks Classic 40g,Health & Wellness,Horlicks,ABC Distributors,528.0,2024-04-09
+P1002,Haldiram Bhujia 200g,Snacks,Haldiram,FreshMart Suppliers,629.0,2019-05-11
+P1030,Dove Soap 5kg,Personal Care,Dove,National Wholesale,268.0,2024-06-11
+P1034,Lay's Magic Masala 1kg,Snacks,Lay's,Retail Connect,219.0,2024-01-12
+P1059,Parle Monaco 40g,Snacks,Parle,FreshMart Suppliers,64.0,2021-06-30
+P1062,Safal Green Peas 340ml,Frozen Foods,Safal,National Wholesale,574.0,2019-04-24
+P1067,Bingo Mad Angles 5kg,Snacks,Bingo,FastMove Logistics,341.0,2023-07-31
+P1071,Coca-Cola Bottle 250ml,Beverages,Coca-cola,FastMove Logistics,552.0,2022-10-04
+P1089,Dabur Chyawanprash 750g,Health & Wellness,Dabur,National Wholesale,456.0,2019-12-02
+P1105,Colgate Toothpaste 400g,Personal Care,Colgate,National Wholesale,588.0,2022-12-12
+P1121,Haldiram Bhujia 100g,Snacks,Haldiram,FastMove Logistics,467.0,2022-08-13
+P1124,Lux Soap 340ml,Personal Care,Lux,Prime FMCG Supply,132.0,2022-09-12
+P1146,Mother Dairy Milk 80g,Dairy,Mother Dairy,FastMove Logistics,319.0,2020-10-09
+P1147,Sunsilk Shampoo 250ml,Personal Care,Sunsilk,FreshMart Suppliers,679.0,2021-10-21
+P1014,Colgate Toothpaste 250ml,Personal Care,Colgate,Prime FMCG Supply,92.0,2022-07-12
+P1024,Fortune Sunflower Oil 200g,Staples,Fortune,FreshMart Suppliers,774.0,2019-10-11
+P1041,Amul Butter 180ml,Dairy,Amul,Retail Connect,513.0,2024-12-15
+P1047,Aashirvaad Atta 500g,Staples,Aashirvaad,ABC Distributors,388.0,2021-09-27
+P1048,Nescafe Coffee 40g,Beverages,Nescafe,FastMove Logistics,581.0,2022-05-24
+P1066,McCain French Fries 500ml,Frozen Foods,Mccain,ABC Distributors,466.0,2022-09-14
+P1069,Tropicana Orange Juice 1L,Beverages,Tropicana,ABC Distributors,586.0,2022-05-29
+P1075,Amul Butter 750g,Dairy,Amul,Prime FMCG Supply,460.0,2020-12-21
+P1090,Fortune Sunflower Oil 750g,Staples,Fortune,ABC Distributors,692.0,2019-05-08
+P1001,Lay's Classic Chips 400g,Snacks,Lay's,Prime FMCG Supply,306.0,2021-07-03
+P1017,Nescafe Coffee 200g,Beverages,Nescafe,,798.0,2020-03-25
+P1022,McCain French Fries 500g,Frozen Foods,Mccain,Prime FMCG Supply,407.0,2024-12-12
+P1051,Aashirvaad Atta 5kg,Staples,Aashirvaad,National Wholesale,525.0,2019-07-28
+P1052,Dabur Chyawanprash 100g,Health & Wellness,Dabur,National Wholesale,28.0,2020-06-19
+P1070,Colgate Toothpaste 2L,Personal Care,Colgate,FastMove Logistics,477.0,2021-05-25
+P1084,Lux Soap 750g,Personal Care,Lux,FreshMart Suppliers,434.0,2021-06-22
+P1097,Himalaya Baby Lotion 500g,Baby Care,Himalaya,Prime FMCG Supply,470.0,2024-11-07
+P1106,Vim Dishwash Gel 250ml,Household,Vim,ABC Distributors,261.0,2021-02-27
+P1115,Britannia Cheese 400g,Dairy,Britannia,Prime FMCG Supply,126.0,2021-05-14
+P1118,Johnson's Baby Soap 340ml,Baby Care,Johnson's,National Wholesale,264.0,2021-03-21
+P1145,Pepsi Bottle 2L,Beverages,Pepsi,National Wholesale,678.0,2024-02-26
+P1149,Surf Excel Easy Wash 40g,Household,Surf Excel,FreshMart Suppliers,699.0,2022-01-29
+P1005,Amul Milk 400g,Dairy,Amul,National Wholesale,457.0,2022-02-12
+P1009,Lay's Classic Chips 340ml,Snacks,Lay's,National Wholesale,258.0,2019-11-23
+P1019,Safal Green Peas 5kg,Frozen Foods,Safal,FastMove Logistics,39.0,2020-04-14
+P1032,Parle Monaco 500ml,Snacks,Parle,FreshMart Suppliers,458.0,2024-03-27
+P1042,McCain French Fries 40g,Frozen Foods,Mccain,ABC Distributors,215.0,2019-10-06
+P1058,Colgate Toothpaste 750g,Personal Care,Colgate,FastMove Logistics,710.0,2021-10-13
+P1065,Aashirvaad Atta 100g,Staples,Aashirvaad,FreshMart Suppliers,750.0,2019-01-07
+P1068,Surf Excel Matic 1kg,Household,Surf Excel,FastMove Logistics,455.0,2023-04-02
+P1074,Tata Sampann Toor Dal 2L,Staples,Tata Sampann,Prime FMCG Supply,434.0,2020-08-27
+P1083,Horlicks Classic 400g,Health & Wellness,Horlicks,Retail Connect,45.0,2023-04-08
+P1085,Harpic Toilet Cleaner 2L,Household,Harpic,FreshMart Suppliers,54.0,2022-10-08
+P1101,Surf Excel Easy Wash 5kg,Household,Surf Excel,ABC Distributors,220.0,2021-09-15
+P1138,Parle Monaco 200g,Snacks,Parle,FreshMart Suppliers,563.0,2019-03-04
+P1144,Haldiram Bhujia 40g,Snacks,Haldiram,Retail Connect,416.0,2021-09-13
+P1003,Fortune Atta 5kg,Staples,Fortune,ABC Distributors,641.0,2021-03-25
+P1006,Dove Soap 200g,Personal Care,Dove,ABC Distributors,414.0,2023-01-10
+P1025,Pepsi Bottle 340ml,Beverages,Pepsi,Retail Connect,511.0,2020-11-07
+P1043,Tata Sampann Toor Dal 200g,Staples,Tata Sampann,Prime FMCG Supply,608.0,2019-06-12
+P1060,Johnson's Baby Oil 250ml,Baby Care,Johnson's,Prime FMCG Supply,839.0,2021-07-02
+P1078,Nescafe Coffee 2L,Beverages,Nescafe,Prime FMCG Supply,290.0,2022-02-09
+P1107,McCain French Fries 1kg,Frozen Foods,Mccain,FastMove Logistics,246.0,2024-06-06
+P1128,Himalaya Baby Lotion 2L,Baby Care,Himalaya,ABC Distributors,803.0,2021-04-13
+P1140,Sunsilk Shampoo 1L,Personal Care,Sunsilk,FastMove Logistics,349.0,2024-06-21
+P1142,Parle Monaco 500g,Snacks,Parle,,735.0,2019-04-29
+P1037,Fortune Atta 1L,Staples,Fortune,FreshMart Suppliers,522.0,2021-05-25
+P1056,Fortune Sunflower Oil 500ml,Staples,Fortune,Retail Connect,823.0,2023-07-23
+P1072,Aashirvaad Atta 1kg,Staples,Aashirvaad,Prime FMCG Supply,850.0,2020-08-26
+P1095,Surf Excel Easy Wash 750g,Household,Surf Excel,ABC Distributors,604.0,2022-11-23
+P1114,Johnson's Baby Oil 40g,Baby Care,Johnson's,FreshMart Suppliers,627.0,2022-06-04
+P1132,Dabur Chyawanprash 2L,Health & Wellness,Dabur,,274.0,2020-08-15
+P1148,Surf Excel Matic 1L,Household,Surf Excel,ABC Distributors,519.0,2021-08-29
+P1027,Horlicks Classic 340ml,Health & Wellness,Horlicks,FreshMart Suppliers,407.0,2024-10-20
+P1038,Amul Milk 1L,Dairy,Amul,FreshMart Suppliers,27.0,2021-12-22
+P1094,Dabur Chyawanprash 400g,Health & Wellness,Dabur,ABC Distributors,228.0,2021-09-21
+P1102,Himalaya Baby Lotion 750g,Baby Care,Himalaya,FastMove Logistics,271.0,2024-05-04
+P1130,Dabur Honey 1kg,Health & Wellness,Dabur,FreshMart Suppliers,141.0,2020-04-26
+P1135,Lux Soap 5kg,Personal Care,Lux,Retail Connect,806.0,2023-03-26
+P1137,Himalaya Baby Lotion 80g,Baby Care,Himalaya,FreshMart Suppliers,418.0,2020-09-15
+P1010,Parle Monaco 250ml,Snacks,Parle,FastMove Logistics,489.0,2023-02-03
+P1015,Johnson's Baby Oil 80g,Baby Care,Johnson's,,683.0,2020-08-08
+P1036,McCain French Fries 100g,Frozen Foods,Mccain,Retail Connect,692.0,2019-03-02
+P1046,Lay's Classic Chips 2L,Snacks,Lay's,Retail Connect,661.0,2020-02-14
+P1076,Safal Green Peas 100g,Frozen Foods,Safal,,595.0,2020-05-12
+P1081,Horlicks Classic 500g,Health & Wellness,Horlicks,Prime FMCG Supply,748.0,2019-09-21
+P1088,Harpic Toilet Cleaner 500ml,Household,Harpic,FreshMart Suppliers,241.0,2022-08-31
+P1109,McCain French Fries 250ml,Frozen Foods,Mccain,ABC Distributors,71.0,2022-04-11
+P1136,Fortune Atta 180ml,Staples,Fortune,Prime FMCG Supply,417.0,2023-08-10
+P1029,Amul Butter 400g,Dairy,Amul,ABC Distributors,671.0,2021-07-26
+P1031,Nescafe Coffee 1kg,Beverages,Nescafe,FreshMart Suppliers,828.0,2023-07-26
+P1040,Surf Excel Matic 100g,Household,Surf Excel,FastMove Logistics,618.0,2019-09-07
+P1064,Lux Soap 1L,Personal Care,Lux,Retail Connect,645.0,2020-04-18
+P1079,Aashirvaad Atta 2L,Staples,Aashirvaad,FastMove Logistics,104.0,2022-03-16
+P1111,Amul Paneer 40g,Dairy,Amul,ABC Distributors,514.0,2019-09-25
+P1113,Surf Excel Easy Wash 1kg,Household,Surf Excel,Retail Connect,146.0,2023-09-01
+P1141,Britannia Cheese 200g,Dairy,Britannia,FastMove Logistics,265.0,2022-03-23
+P1026,Dabur Honey 80g,Health & Wellness,Dabur,FastMove Logistics,577.0,2021-04-03
+P1033,Amul Butter 100g,Dairy,Amul,FastMove Logistics,437.0,2022-10-21
+P1053,Nescafe Coffee 5kg,Beverages,Nescafe,FreshMart Suppliers,747.0,2019-02-09
+P1080,Lux Soap 80g,Personal Care,Lux,ABC Distributors,578.0,2020-07-20
+P1092,Tata Sampann Toor Dal 400g,Staples,Tata Sampann,National Wholesale,287.0,2020-11-18
+P1104,Aashirvaad Atta 340ml,Staples,Aashirvaad,National Wholesale,620.0,2024-04-22
+P1110,Johnson's Baby Soap 40g,Baby Care,Johnson's,Retail Connect,37.0,2022-03-10
+P1125,Johnson's Baby Oil 340ml,Baby Care,Johnson's,Retail Connect,435.0,2019-05-31
+PB1005,Dove Soap 5kg,Personal Care,Dove,National Wholesale,268.0,2024-06-11
+PB1008,Sunsilk Shampoo 2L,Personal Care,Sunsilk,ABC Distributors,449.5,2021-04-27
+PB1011,Vim Dishwash Gel 200 gm,Household,Vim,FreshMart Suppliers,325.0,2020-10-09
+PB1032,Bru Beverage 200g,Beverages,Bru,Prime Wholesale,110.79,2024-12-29
+PB1037,Britannia Biscuit 200g,Biscuits,Britannia,ABC Distributors,72.73,2022-10-11
+PB1050,McCain Frozen Food 500g,Frozen Foods,Mccain,RK Agencies,94.46,2024-09-21
+PB1059,Dove Personal Care 250g,Personal Care,Dove,RK Agencies,55.01,2025-01-15
+PB1072,Bru Beverage 200g,Beverages,Bru,Metro Supplies,330.82,2025-01-22
+PB1103,Mother Dairy Dairy 250g,Dairy,Mother Dairy,Prime Wholesale,69.07,2025-03-01
+PB1117,Mother Dairy Dairy 500g,Dairy,Mother Dairy,Shree Traders,211.28,2023-01-08
+PB1024,Bingo Mad Angles 5kg,Snacks,Bingo,FastMove Logistics,340.5,2023-07-31
+PB1052,Fortune Staple 1kg,Staples,Fortune,Global FMCG,378.52,2024-08-14
+PB1071,Surf Excel Home Care 1kg,Home Care,Surf Excel,ABC Distributors,319.48,2025-02-03
+PB1105,Fortune Staple 1kg,Staples,Fortune,ABC Distributors,157.44,2023-07-24
+PB1106,Cadbury Chocolate 250g,Chocolates,Cadbury,ABC Distributors,142.72,2022-04-17
+PB1109,Aashirvaad Staple 250g,Staples,Aashirvaad,ABC Distributors,531.48,2022-08-23
+PB1113,Britannia Biscuit 100g,Biscuits,Britannia,Prime Wholesale,493.08,2024-06-06
+PB1001,Harpic Toilet Cleaner 2L,Household,Harpic,FreshMart Suppliers,54.0,2022-10-08
+PB1021,Safal Green Peas 100 gm,Frozen Foods,Safal,,594.5,2020-05-12
+PB1025,Fortune Sunflower Oil 500ml,Staples,Fortune,Retail Connect,823.5,2023-07-23
+PB1033,Lizol Home Care 250g,Home Care,Lizol,Om Enterprises,467.5,2023-03-26
+PB1034,Amul Dairy 100g,Dairy,Amul,RK Agencies,59.75,2023-10-09
+PB1046,Bingo Snack 250g,Snacks,Bingo,Global FMCG,421.51,2024-05-16
+PB1049,Amul Dairy 100g,Dairy,Amul,ABC Distributors,476.31,2023-04-14
+PB1066,Fortune Staple 200g,Staples,Fortune,RK Agencies,394.36,2024-06-16
+PB1088,Cadbury Chocolate 250g,Chocolates,Cadbury,Shree Traders,370.9,2024-08-27
+PB1007,Aashirvaad Atta 2L,Staples,Aashirvaad,FastMove Logistics,104.0,2022-03-16
+PB1035,Aashirvaad Staple 1kg,Staples,Aashirvaad,Shree Traders,265.9,2024-03-21
+PB1036,Lay's Snack 250g,Snacks,Lay's,RK Agencies,249.93,2025-01-08
+PB1038,Tata Tea Beverage 200g,Beverages,Tata Tea,RK Agencies,227.0,2024-05-14
+PB1060,Cadbury Chocolate 100g,Chocolates,Cadbury,,60.97,2024-11-06
+PB1064,Aashirvaad Staple 100g,Staples,Aashirvaad,ABC Distributors,547.95,2024-07-27
+PB1104,Bingo Snack 200g,Snacks,Bingo,Prime Wholesale,196.86,2022-04-13
+PB1120,Nestle Chocolate 100g,Chocolates,Nestle,Metro Supplies,237.31,2022-07-10
+PB1010,Aashirvaad Atta 400g,Staples,Aashirvaad,FreshMart Suppliers,622.5,2023-06-24
+PB1027,Horlicks Classic 340ml,Health & Wellness,Horlicks,FreshMart Suppliers,406.5,2024-10-20
+PB1056,Amul Dairy 200g,Dairy,Amul,Om Enterprises,277.71,2022-12-07
+PB1061,Pears Personal Care 100g,Personal Care,Pears,RK Agencies,337.12,2025-03-12
+PB1115,Nestle Chocolate 1kg,Chocolates,Nestle,ABC Distributors,461.13,2023-07-04
+PB1016,Colgate Toothpaste 2L,Personal Care,Colgate,FastMove Logistics,477.0,2021-05-25
+PB1029,Fortune Atta 180ml,Staples,Fortune,Prime FMCG Supply,417.0,2023-08-10
+PB1045,Cadbury Chocolate 250g,Chocolates,Cadbury,RK Agencies,274.52,2022-09-15
+PB1053,Tata Tea Beverage 1kg,Beverages,Tata Tea,Metro Supplies,155.54,2023-11-26
+PB1054,McCain Frozen Food 200g,Frozen Foods,Mccain,Om Enterprises,267.88,2024-05-14
+PB1058,Nestle Chocolate 1kg,Chocolates,Nestle,Shree Traders,106.27,2025-02-12
+PB1112,McCain Frozen Food 500g,Frozen Foods,Mccain,Om Enterprises,204.15,2022-05-22
+PB1015,Dabur Chyawanprash 100 gm,Health & Wellness,Dabur,National Wholesale,28.5,2020-06-19
+PB1026,Nescafe Coffee 1 KG,Beverages,Nescafe,FreshMart Suppliers,827.5,2023-07-26
+PB1063,Aashirvaad Staple 500g,Staples,Aashirvaad,Prime Wholesale,363.89,2024-03-21
+PB1070,Amul Dairy 1kg,Dairy,Amul,Metro Supplies,200.12,2023-07-21
+PB1079,Vim Home Care 250g,Home Care,Vim,ABC Distributors,198.85,2024-03-29
+PB1083,Nivea Personal Care 1kg,Personal Care,Nivea,RK Agencies,508.4,2022-05-24
+PB1003,Safal Green Peas 2L,Frozen Foods,Safal,FastMove Logistics,470.5,2022-01-04
+PB1042,McCain Frozen Food 200g,Frozen Foods,Mccain,Om Enterprises,308.17,2024-02-05
+PB1043,McCain Frozen Food 250g,Frozen Foods,Mccain,Shree Traders,83.73,2023-10-26
+PB1044,Surf Excel Home Care 100g,Home Care,Surf Excel,ABC Distributors,522.15,2023-05-09
+PB1076,Fortune Staple 200g,Staples,Fortune,Om Enterprises,81.75,2023-07-01
+PB1078,Lux Personal Care 100g,Personal Care,Lux,,171.27,2023-01-31
+PB1014,Tata Sampann Toor Dal 200 gm,Staples,Tata Sampann,Prime FMCG Supply,608.0,2019-06-12
+PB1048,Dove Personal Care 500g,Personal Care,Dove,Metro Supplies,145.81,2022-02-13
+PB1073,Parle Biscuit 100g,Biscuits,Parle,Metro Supplies,496.94,2023-09-24
+PB1084,Aashirvaad Staple 500g,Staples,Aashirvaad,Prime Wholesale,239.41,2024-11-04
+PB1087,Surf Excel Home Care 1kg,Home Care,Surf Excel,Prime Wholesale,194.18,2025-04-02
+PB1101,Parle Biscuit 1kg,Biscuits,Parle,Prime Wholesale,279.96,2023-03-26
+PB1114,Bingo Snack 200g,Snacks,Bingo,RK Agencies,348.35,2024-12-04
+PB1004,Coca-Cola Bottle 500 g,Beverages,Coca-cola,FreshMart Suppliers,26.5,2024-01-20
+PB1009,Safal Green Peas 5kg,Frozen Foods,Safal,FastMove Logistics,39.0,2020-04-14
+PB1019,McCain French Fries 500ml,Frozen Foods,Mccain,ABC Distributors,466.5,2022-09-14
+PB1023,Parle Monaco 500ml,Snacks,Parle,FreshMart Suppliers,458.5,2024-03-27
+PB1028,Dabur Chyawanprash 2L,Health & Wellness,Dabur,,274.5,2020-08-15
+PB1047,Nivea Personal Care 1kg,Personal Care,Nivea,,262.03,2024-02-04
+PB1090,Lay's Snack 100g,Snacks,Lay's,ABC Distributors,471.11,2023-05-17
+PB1097,Vim Home Care 500g,Home Care,Vim,Prime Wholesale,104.19,2025-01-11
+PB1118,Fortune Staple 250g,Staples,Fortune,,296.23,2023-07-20
+PB1006,Britannia Cheese 400g,Dairy,Britannia,Prime FMCG Supply,126.0,2021-05-14
+PB1012,McCain French Fries 340ml,Frozen Foods,Mccain,ABC Distributors,357.5,2021-07-27
+PB1017,Johnson's Baby Soap 40g,Baby Care,Johnson's,Retail Connect,37.5,2022-03-10
+PB1020,Himalaya Baby Lotion 500 g,Baby Care,Himalaya,Prime FMCG Supply,470.0,2024-11-07
+PB1040,Lizol Home Care 500g,Home Care,Lizol,ABC Distributors,108.03,2022-08-17
+PB1055,Nescafe Beverage 250g,Beverages,Nescafe,,549.62,2022-07-20
+PB1062,Nescafe Beverage 250g,Beverages,Nescafe,Metro Supplies,515.72,2025-03-03
+PB1067,McCain Frozen Food 250g,Frozen Foods,Mccain,Metro Supplies,79.38,2023-09-06
+PB1085,Lizol Home Care 200g,Home Care,Lizol,Global FMCG,518.69,2023-01-28
+PB1095,Nestle Chocolate 500g,Chocolates,Nestle,Om Enterprises,170.59,2023-05-22
+PB1098,Haldiram Snack 200g,Snacks,Haldiram,Prime Wholesale,198.71,2022-05-12
+PB1099,Parle Biscuit 200g,Biscuits,Parle,ABC Distributors,521.68,2024-05-10
+PB1111,Dove Personal Care 500g,Personal Care,Dove,Shree Traders,435.88,2022-09-05
+PB1082,Surf Excel Home Care 1kg,Home Care,Surf Excel,Global FMCG,385.6,2022-01-04
+PB1119,Tata Tea Beverage 1kg,Beverages,Tata Tea,Global FMCG,387.57,2024-09-27
+PB1002,Amul Butter 340ml,Dairy,Amul,Prime FMCG Supply,463.0,2024-03-06
+PB1030,Fortune Atta 1L,Staples,Fortune,FreshMart Suppliers,522.5,2021-05-25
+PB1093,McCain Frozen Food 100g,Frozen Foods,Mccain,Om Enterprises,264.64,2025-02-15
+PB1100,Britannia Biscuit 100g,Biscuits,Britannia,Om Enterprises,473.06,2023-12-22
+PB1107,Amul Dairy 200g,Dairy,Amul,Metro Supplies,351.2,2023-02-13
+PB1116,Vim Home Care 200g,Home Care,Vim,Shree Traders,375.8,2024-08-09
+PB1022,Lux Soap 340ml,Personal Care,Lux,Prime FMCG Supply,132.5,2022-09-12
+PB1039,Nestle Chocolate 250g,Chocolates,Nestle,RK Agencies,382.9,2022-01-24
+PB1068,Surf Excel Home Care 100g,Home Care,Surf Excel,Metro Supplies,172.92,2025-02-07
+PB1075,Lay's Snack 200g,Snacks,Lay's,Global FMCG,38.01,2022-12-29
+PB1077,Mother Dairy Dairy 200g,Dairy,Mother Dairy,Om Enterprises,208.57,2023-02-13
+PB1091,Nestle Chocolate 250g,Chocolates,Nestle,Prime Wholesale,226.59,2023-02-03
+PB1094,Nestle Chocolate 1kg,Chocolates,Nestle,Metro Supplies,259.1,2024-10-30
+PB1102,Fortune Staple 200g,Staples,Fortune,RK Agencies,539.88,2024-08-15
+PB1108,Bingo Snack 100g,Snacks,Bingo,Shree Traders,269.14,2025-03-01
+PB1013,Parle Monaco 250ml,Snacks,Parle,FastMove Logistics,489.0,2023-02-03
+PB1018,Himalaya Baby Lotion 80g,Baby Care,Himalaya,FreshMart Suppliers,418.5,2020-09-15
+PB1074,Dove Personal Care 500g,Personal Care,Dove,Global FMCG,536.26,2025-02-20
+PB1080,Nescafe Beverage 200g,Beverages,Nescafe,Prime Wholesale,81.91,2025-04-04
+PB1089,McCain Frozen Food 100g,Frozen Foods,Mccain,Metro Supplies,142.94,2023-04-27
+PB1096,McCain Frozen Food 200g,Frozen Foods,Mccain,,399.61,2023-07-17
+PB1031,Vim Home Care 500g,Home Care,Vim,Shree Traders,134.99,2022-11-30
+PB1041,Lizol Home Care 200g,Home Care,Lizol,Shree Traders,482.02,2024-11-05
+PB1051,Cadbury Chocolate 1kg,Chocolates,Cadbury,Prime Wholesale,75.89,2024-04-13
+PB1057,Parle Biscuit 200g,Biscuits,Parle,Om Enterprises,164.23,2024-02-16
+PB1065,McCain Frozen Food 250g,Frozen Foods,Mccain,Metro Supplies,487.45,2023-06-28
+PB1069,Aashirvaad Staple 500g,Staples,Aashirvaad,Om Enterprises,500.3,2024-11-01
+PB1081,Fortune Staple 1kg,Staples,Fortune,Metro Supplies,497.24,2024-11-13
+PB1086,Haldiram Snack 250g,Snacks,Haldiram,Shree Traders,462.71,2023-09-09
+PB1092,Lux Personal Care 100g,Personal Care,Lux,Om Enterprises,139.89,2022-08-07
+PB1110,Mother Dairy Dairy 250g,Dairy,Mother Dairy,Global FMCG,64.9,2024-02-08

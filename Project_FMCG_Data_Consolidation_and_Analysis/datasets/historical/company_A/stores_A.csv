@@ -1,0 +1,27 @@
+Store_ID,Store_Name,City,State,Region,Manager,Opening_Date,Created_At,Last_Updated
+S001,RetailMart Jaipur,Jaipur,Rajasthan,N,Yash Kapoor,2019-03-21,2019-05-08 16:37:38.260628,2020-03-30 16:37:38.260628
+S002,RetailMart Delhi,Delhi,Delhi,North,Pahal Balay,2013-03-21,2014-05-19 02:41:32.834167,2014-07-15 02:41:32.834167
+S003,RetailMart Mumbai,Mumbai,Maharashtra,West,Rushil Saini,2011-11-26,2014-08-31 20:40:23.862925,2014-09-12 20:40:23.862925
+S004,RetailMart Pune,Pune,Maharashtra,West,Nathaniel Sami,2014-03-11,2020-04-17 02:50:11.199977,2020-09-04 02:50:11.199977
+S005,RetailMart Ahmedabad,Ahmedabad,Gujarat,West,Harsh Chanda,2015-08-18,2017-01-05 12:47:06.357038,2017-05-10 12:47:06.357038
+S006,RetailMart Surat,Surat,Gujarat,West,Aishani Bassi,2016-02-08,2019-02-19 01:08:14.631833,2019-06-13 01:08:14.631833
+S007,RetailMart Bengaluru,Bengaluru,Karnataka,south,Farhan Memon,2020-04-20,2022-07-30 14:56:26.083344,2022-10-09 14:56:26.083344
+S008,RetailMart Mysuru,Mysuru,Karnataka,South,Rehaan Boase,2021-07-01,2023-05-20 22:52:57.095641,2023-07-11 22:52:57.095641
+S009,RetailMart Hyderabad,Hyderabad,Telangana,South,Fariq Kaul,2012-02-04,2014-12-06 16:20:10.435303,2015-11-17 16:20:10.435303
+S010,RetailMart Chennai,Chennai,Tamil Nadu,South,Janya Gaba,2021-12-10,2022-12-06 19:58:47.695253,2023-09-11 19:58:47.695253
+S011,RetailMart Kochi,Kochi,Kerala,South,Ekbal Garg,2015-12-27,2017-10-12 02:27:11.114541,2017-11-25 02:27:11.114541
+S012,RetailMart Kolkata,Kolkata,West Bengal,East,Ladli Madan,2017-12-15,2019-07-27 11:22:34.224490,2020-05-24 11:22:34.224490
+S013,RetailMart Bhubaneswar,Bhubaneswar,ODISHA,East,Ekta Bhalla,2023-06-03,2024-02-21 14:23:29.054176,2024-09-24 14:23:29.054176
+S014,RetailMart Patna,Patna,Bihar,East,,2014-04-17,2014-08-15 05:50:37.374472,2014-08-31 05:50:37.374472
+S015,RetailMart Lucknow,Lucknow,Uttar Pradesh,north,,2012-05-04,2023-06-27 13:25:37.847119,2023-07-12 13:25:37.847119
+S016,RetailMart Kanpur,Kanpur,Uttar Pradesh,North,Luke Lanka,2016-04-17,2023-11-04 05:54:39.813918,2023-12-21 05:54:39.813918
+S017,RetailMart Indore,Indore,Madhya Pradesh,Central,Priya Rastogi,2013-03-21,2021-08-28 16:06:12.886513,2021-12-17 16:06:12.886513
+S018,RetailMart Bhopal,Bhopal,MADHYA PRADESH,central,Yashodhara Tak,2015-11-21,2024-07-10 09:59:34.026563,2024-11-06 09:59:34.026563
+S019,RetailMart Nagpur,Nagpur,maharashtra,Central,Michael Dutta,2012-08-20,2013-03-12 23:56:18.888541,2013-11-25 23:56:18.888541
+S020,RetailMart Raipur,Raipur,Chhattisgarh,Central,Lekha Raj,2021-01-18,2022-07-11 11:13:11.702807,2023-05-15 11:13:11.702807
+S021,RetailMart Chandigarh,Chandigarh,Chandigarh,North,Advay Contractor,2018-09-11,2021-06-07 15:10:01.710692,2021-06-20 15:10:01.710692
+S022,RetailMart Guwahati,Guwahati,Assam,East,Harini Choudhury,2019-09-22,2022-04-25 01:47:06.722848,2023-02-06 01:47:06.722848
+S023,RetailMart Ranchi,Ranchi,Jharkhand,East,Adya Tella,2015-01-25,2016-07-25 16:19:52.565471,2016-11-03 16:19:52.565471
+S024,RetailMart Visakhapatnam,Visakhapatnam,Andhra Pradesh,S,Chanchal Tripathi,2020-09-08,2022-08-24 18:25:11.596053,2023-07-22 18:25:11.596053
+S025,RetailMart Coimbatore,Coimbatore,Tamil Nadu,South,Aadi Naik,2018-11-08,2019-09-21 21:16:34.616117,2020-09-14 21:16:34.616117
+S023,RetailMart Ranchi,Ranchi,Jharkhand,East,Adya Tella,2015-01-25,2016-07-25 16:19:52.565471,2016-11-03 16:19:52.565471
