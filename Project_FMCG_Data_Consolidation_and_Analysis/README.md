@@ -106,6 +106,8 @@ consolidation.
 
 # Medallion Architecture
 
+**Note: Display statements were commented out before exporting the notebooks to reduce notebook size and improve GitHub readability. The transformation logic remains unchanged.**
+
 ## Bronze Layer
 
 -   Ingested raw CSV datasets into Delta tables
