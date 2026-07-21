@@ -34,17 +34,15 @@ Workflows**.
 
 # Technology Stack
 
-  
+  Technology     Purpose
+  -------------- ---------------------------------------
+  Databricks     Data Engineering Platform
+  PySpark        Distributed Data Processing
+  Delta Lake     Lakehouse Storage & ACID Transactions
+  SQL            Analytical Queries
+  Power BI       Dashboard & Data Visualization
+  Git & GitHub   Version Control
 
-| Technology | Purpose                                                                                |
-|------------|---------                                                                               |
-| Databricks | Cloud-based data engineering platform for building and orchestrating the data pipeline |
-| PySpark    | Distributed data processing, cleaning, and transformations    |
-| Delta Lake | ACID-compliant Lakehouse storage and incremental data processing |
-| SQL        | Analytical queries and business insights |
-| Power BI   | Dashboard creation and business visualization |
-| Git        | Version control |
-| GitHub     | Source code hosting and project collaboration |
 ------------------------------------------------------------------------
 
 # Dataset Description
@@ -81,7 +79,7 @@ consolidation.
 
 ------------------------------------------------------------------------
 
-# Solution Architecture
+# Project Architecture
 
 ``` text
                 Company A
@@ -175,83 +173,20 @@ Region, Yearly Sales Trend, Top Products, and Customer Insights.
 
 # Repository Structure
 
-
-```text
+``` text
 Project_FMCG_Data_Consolidation_and_Analysis/
 
+├── data
+│   ├── 01_bronze
+│   ├── 02_silver
+│   └── 03_gold
+├── notebooks
+├── orchestration
+├── power_bi
+├── SQL_Analysis
+├── Documentation
 ├── architecture.png
-├── README.md
-├── Documentation/
-│
-├── data/
-│   ├── 01_bronze/
-│   │   ├── historical/
-│   │   │   ├── company_A/
-│   │   │   │   ├── customers_A.csv
-│   │   │   │   ├── products_A.csv
-│   │   │   │   ├── orders_A.csv
-│   │   │   │   └── stores_A.csv
-│   │   │   │
-│   │   │   └── company_B/
-│   │   │       ├── customers_B.csv
-│   │   │       ├── products_B.csv
-│   │   │       ├── orders_B.csv
-│   │   │       └── stores_B.csv
-│   │   │
-│   │   └── incremental/
-│   │       └── orders_incremental_01.csv
-│   │
-│   ├── 02_silver/
-│   │   ├── silver_before_increment (historical)/
-│   │   │   ├── customers.csv
-│   │   │   ├── products.csv
-│   │   │   ├── stores.csv
-│   │   │   └── orders.csv
-│   │   │
-│   │   └── silver_after_increment/
-│   │       ├── customers.csv
-│   │       ├── products.csv
-│   │       ├── stores.csv
-│   │       └── orders.csv
-│   │
-│   └── 03_gold/
-│       ├── gold_before_increment/
-│       │   ├── dim_customers.csv
-│       │   ├── dim_products.csv
-│       │   ├── dim_stores.csv
-│       │   ├── dim_time.csv
-│       │   └── fact_sales.csv
-│       │
-│       └── gold_after_increment/
-│           ├── dim_customers.csv
-│           ├── dim_products.csv
-│           ├── dim_stores.csv
-│           ├── dim_time.csv
-│           └── fact_sales.csv
-│
-├── notebooks/
-│   ├── 00_customers_generation_for_companyA.ipynb
-│   ├── 01_Bronze_Layer.ipynb
-│   ├── 02_Silver_Layer_1.ipynb
-│   ├── 03_Silver_Layer_2.ipynb
-│   ├── 04_Gold_Layer.ipynb
-│   └── 05_Incremental_Load.ipynb
-│
-├── orchestration/
-│   ├── job_running.png
-│   ├── job_scheduled.png
-│   └── job_successful_ran.png
-│
-├── power_bi/
-│   ├── dashboard_01.png
-│   ├── dashboard_02.png
-│   └── Fmcg_dashboard.pbix
-│
-└── SQL_Analysis/
-    ├── SQL_Analysis.ipynb
-    └── outputs/
-        
-
+└── README.md
 ```
 
 ------------------------------------------------------------------------
